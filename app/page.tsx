@@ -87,7 +87,7 @@ export default function Home() {
           <p>Scholarships come in many forms. Start with your stage of education or explore the organisations that make learning more accessible.</p>
         </div>
         <div className="level-grid">
-          {levels.map((item, i) => { const Icon = item.icon; return <a href={item.name === "School" ? "/school" : `/scholarships?level=${encodeURIComponent(item.name)}`} className="level-card" key={item.name}><span className="level-number">0{i+1}</span><span className="level-icon"><Icon size={22}/></span><span className="level-name">{item.name}</span><span className="level-detail">{item.detail}</span><ArrowUpRight className="level-arrow" size={18}/></a>; })}
+          {levels.map((item, i) => { const Icon = item.icon; return <a href={item.name === "School" ? "/school" : item.name === "Intermediate" ? "/intermediate" : `/scholarships?level=${encodeURIComponent(item.name)}`} className="level-card" key={item.name}><span className="level-number">0{i+1}</span><span className="level-icon"><Icon size={22}/></span><span className="level-name">{item.name}</span><span className="level-detail">{item.detail}</span><ArrowUpRight className="level-arrow" size={18}/></a>; })}
         </div>
       </section>
 
