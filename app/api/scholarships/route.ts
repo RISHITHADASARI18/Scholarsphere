@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getDb } from "@/lib/db";
+import schoolSeed from "@/data/scholarships/school-seed.json";
 
 export const dynamic = "force-dynamic";
 
@@ -8,7 +9,21 @@ const allowedLevels = new Set(["School", "Intermediate", "Diploma", "Undergradua
 export async function GET(request: NextRequest) {
   const db = getDb();
   if (!db) {
-    return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "Scholarship data is not connected yet." }, { status: 503 });
+    if ((request.nextUrl.searchParams.get("level") || "School") !== "School") {
+      return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "This education-level catalogue is being connected. School records are available while the database is provisioned." }, { status: 503 });
+    }
+    const p = request.nextUrl.searchParams;
+    const q = (p.get("q") || "").toLowerCase();
+    const state = p.get("state") || "";
+    const grade = p.get("grade") || "";
+    const category = p.get("category") || "";
+    const filtered = schoolSeed.filter((item) =>
+      (!q || (item.name + " " + item.provider + " " + item.summary).toLowerCase().includes(q)) &&
+      (!state || item.states.includes("All India") || item.states.includes(state)) &&
+      (!grade || item.grades.includes(grade)) &&
+      (!category || item.categories.includes(category))
+    ).map((item) => ({ ...item, sourceLastCheckedAt: item.sourceLastChecked }));
+    return NextResponse.json({ count: filtered.length, academicYear: "2026-27", scholarships: filtered });
   }
 
   const params = request.nextUrl.searchParams;
@@ -50,7 +65,8 @@ export async function GET(request: NextRequest) {
         name ASC
       LIMIT ${limit}
     `;
-    return NextResponse.json({ count: rows.length, academicYear: "2026-27", scholarships: rows });
+    const typedRows = rows as unknown as Record<string, unknown>[];
+    return NextResponse.json({ count: typedRows.length, academicYear: "2026-27", scholarships: typedRows });
   } catch (error) {
     console.error("Scholarship directory query failed", error);
     return NextResponse.json({ error: "DATABASE_QUERY_FAILED" }, { status: 500 });
