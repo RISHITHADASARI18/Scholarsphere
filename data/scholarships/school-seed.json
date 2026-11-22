@@ -83,7 +83,7 @@
     ],
     "scholarshipType": "Merit-based",
     "summary": "Financial support for eligible OBC, EBC and DNT students studying in schools identified under the Top Class Schools scheme. Selection is merit-based and depends on the notified school list and available state/class slots.",
-    "benefits": "Benefit amount and eligible components should be confirmed in the current scheme guidelines and NSP listing before publication to students.",
+    "benefits": "Up to ₹75,000 per year for Classes 9–10 and up to ₹1,25,000 per year for Classes 11–12, towards eligible school fees and charges, subject to scheme rules and available state/class slots.",
     "eligibility": {
       "categories": [
         "OBC",
@@ -105,15 +105,17 @@
     ],
     "applicationProcess": "Apply through the National Scholarship Portal when the scheme is open. Confirm that the school and state are eligible in the current NSP notice.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://scholarships.gov.in/ciolt/student-announcements",
+    "officialSourceUrl": "https://scholarships.gov.in/public/schemeGuidelines/3061_G.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "applicationOpenDate": "2026-10-22",
     "applicationDeadline": "2026-11-30",
-    "statusNote": "NSP announced fresh applications from 22 October 2026, with a 30 November deadline. The NSP notice says applicants from Rajasthan, Keralam and Karnataka must wait for a further update; check the portal before acting.",
+    "statusNote": "The 2026–27 NSP listing shows the scheme's renewal window; confirm current fresh/renewal dates and state/class slots on NSP. The scheme guidelines set annual support ceilings of ₹75,000 for Classes 9–10 and ₹1,25,000 for Classes 11–12.",
     "sourceLastChecked": "2026-11-22",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "amountMin": 75000,
+    "amountMax": 125000
   },
   {
     "slug": "pre-matric-scholarship-sc-students-2026-27",
@@ -268,6 +270,128 @@
     "applicationStatus": "closed",
     "applicationDeadline": "2026-10-31",
     "statusNote": "NSP listed the 2026–27 application window as closed on 31 October 2026. Check for any official extension or the next cycle.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "hdfc-parivartan-ecss-school-2026-27",
+    "name": "HDFC Bank Parivartan ECSS – School Students",
+    "provider": "HDFC Bank Parivartan (programme administered by Buddy4Study)",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-cum-need",
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Financial support for Indian students in Classes 1–12 who are at risk of discontinuing education because of financial difficulty or a personal/family crisis. Separate categories also cover diploma, ITI, polytechnic, undergraduate and postgraduate students.",
+    "benefits": "₹15,000 for Classes 1–6; ₹18,000 for Classes 7–12, as listed for the 2026–27 school-student programme.",
+    "amountMin": 15000,
+    "amountMax": 18000,
+    "eligibility": {
+      "nationality": "Indian",
+      "grades": "Classes 1–12",
+      "schoolTypes": [
+        "Private",
+        "Government",
+        "Government-aided"
+      ],
+      "previousClassMarksMin": 55,
+      "annualFamilyIncomeMax": 250000,
+      "preference": "Preference for applicants facing personal or family crises in the previous three years and at risk of dropping out."
+    },
+    "requiredDocuments": [
+      "Previous academic-year marksheet",
+      "Government-issued identity proof",
+      "Current-year admission proof",
+      "Bank account details",
+      "Income proof",
+      "Crisis evidence if applicable"
+    ],
+    "applicationProcess": "Check the programme page for the current cycle. When applications are open, use its Apply Now link and follow the administrator's instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.parivartanecss.com/index.html",
+    "officialSourceUrl": "https://www.parivartanecss.com/index.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-08-31",
+    "statusNote": "The programme page lists the 2026–27 school-student opportunity and a deadline of 31 August 2026. The deadline has passed; check the official page for any extension or the next cycle.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "beedi-cine-mine-workers-wards-pre-matric-2026-27",
+    "name": "Financial Assistance for Education to Wards of Beedi, Cine and Mine Workers – Pre-Matric",
+    "provider": "Ministry of Labour & Employment",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Welfare-based",
+    "summary": "Annual education assistance for school students whose parent is an eligible Beedi, Cine, Iron Ore/Manganese/Chrome Ore, Limestone/Dolomite or Mica mine worker. Worker-service, income and academic conditions apply.",
+    "benefits": "₹1,000 per year for Classes 1–4; ₹1,500 for Classes 5–8; ₹2,000 for Classes 9–10, according to the published scheme guidelines.",
+    "amountMin": 1000,
+    "amountMax": 2000,
+    "eligibility": {
+      "parentEmployment": "At least one parent must be an eligible Beedi/Cine/IOMC/LSDM worker with at least six months of service.",
+      "income": "Worker-family monthly income limits and category-specific conditions apply; check current guidelines.",
+      "academic": "Must pass the last qualifying examination in the first attempt; promoted students may also apply.",
+      "institution": "Regular admission in a government or government-recognised institution in India."
+    },
+    "requiredDocuments": [
+      "Worker identity card or mine-worker Form B details",
+      "Previous academic-year marksheet",
+      "Income certificate",
+      "Student photograph",
+      "Bank passbook front page or cancelled cheque"
+    ],
+    "applicationProcess": "Applications are submitted through the National Scholarship Portal when the scheme is open. Review the current Ministry guidelines and NSP listing before applying.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips%20schemes.pdf",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-08-31",
+    "statusNote": "The NSP 2026–27 listing showed the pre-matric application window as closed. Check NSP for extensions or the next cycle; rates shown are from published scheme guidelines.",
     "sourceLastChecked": "2026-11-22",
     "verificationStatus": "verified",
     "published": true
