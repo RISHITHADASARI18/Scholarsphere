@@ -1,0 +1,275 @@
+[
+  {
+    "slug": "national-means-cum-merit-scholarship-2026-27",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "provider": "Department of School Education & Literacy, Ministry of Education",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Means-cum-merit"
+    ],
+    "scholarshipType": "Means-cum-merit",
+    "summary": "A central scholarship for meritorious students from economically weaker families, intended to help students continue from secondary through higher secondary school. Fresh awards are for eligible Class 9 students; renewals may continue through Classes 10–12.",
+    "benefits": "₹12,000 per year, subject to selection and renewal conditions.",
+    "amountMin": 12000,
+    "amountMax": 12000,
+    "eligibility": {
+      "nationality": "Indian",
+      "freshClass": "Class 9",
+      "renewalClasses": [
+        "Class 10",
+        "Class 11",
+        "Class 12"
+      ],
+      "schoolTypes": [
+        "State Government",
+        "Government-aided",
+        "Local body"
+      ],
+      "annualFamilyIncomeMax": 350000,
+      "previousClass": "At least 55% in Class 7 for the selection test; 5 percentage-point relaxation for SC/ST students",
+      "selection": "State/UT selection examination and merit list"
+    },
+    "requiredDocuments": [
+      "Current academic and school details",
+      "Income certificate",
+      "Category certificate if applicable",
+      "Bank account details and other items requested by NSP"
+    ],
+    "applicationProcess": "For the 2026–27 cycle, selected students apply through the National Scholarship Portal after One-Time Registration. Check the portal for the next cycle and renewal instructions.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330936&lang=1&reg=3",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-11-15",
+    "statusNote": "The 2026–27 student application deadline was extended to 15 November 2026. Institute and district verification deadlines continue after that date.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "pm-yasasvi-top-class-schools-2026-27",
+    "name": "PM YASASVI – Top Class Education in Schools",
+    "provider": "Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Merit-based",
+    "summary": "Financial support for eligible OBC, EBC and DNT students studying in schools identified under the Top Class Schools scheme. Selection is merit-based and depends on the notified school list and available state/class slots.",
+    "benefits": "Benefit amount and eligible components should be confirmed in the current scheme guidelines and NSP listing before publication to students.",
+    "eligibility": {
+      "categories": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "grades": [
+        "Class 9 to Class 12"
+      ],
+      "annualFamilyIncomeMax": 250000,
+      "schoolRequirement": "Must be studying in a school identified as a Top Class School under the scheme",
+      "selection": "State-wise merit based on marks in the previous class; limited slots apply"
+    },
+    "requiredDocuments": [
+      "Category certificate as applicable",
+      "Income certificate",
+      "Previous class marks",
+      "School and identity details requested by NSP"
+    ],
+    "applicationProcess": "Apply through the National Scholarship Portal when the scheme is open. Confirm that the school and state are eligible in the current NSP notice.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://scholarships.gov.in/ciolt/student-announcements",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "applicationOpenDate": "2026-10-22",
+    "applicationDeadline": "2026-11-30",
+    "statusNote": "NSP announced fresh applications from 22 October 2026, with a 30 November deadline. The NSP notice says applicants from Rajasthan, Keralam and Karnataka must wait for a further update; check the portal before acting.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "pre-matric-scholarship-sc-students-2026-27",
+    "name": "Pre-Matric Scholarship Scheme for SC Students",
+    "provider": "Department of Social Justice & Empowerment / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "A centrally sponsored scheme supporting full-time Class 9 and 10 students belonging to Scheduled Caste communities. Applications and implementation are handled through the student's domicile State or UT.",
+    "benefits": "Consolidated academic allowance: ₹3,500 per year for day scholars and ₹7,000 per year for hostellers, subject to current state implementation rules.",
+    "amountMin": 3500,
+    "amountMax": 7000,
+    "eligibility": {
+      "categories": [
+        "Scheduled Caste (SC)"
+      ],
+      "grades": [
+        "Class 9",
+        "Class 10"
+      ],
+      "annualFamilyIncomeMax": 250000,
+      "studyMode": "Full-time",
+      "domicile": "Apply through the State/UT of domicile"
+    },
+    "requiredDocuments": [
+      "SC certificate",
+      "Income certificate",
+      "School enrolment details",
+      "Bank details and documents required by the State/UT portal"
+    ],
+    "applicationProcess": "Check the current notification from your domicile State/UT and the National Scholarship Portal. State/UT authorities invite and process applications.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://socialjustice.gov.in/schemes/23",
+    "academicYear": "2026-27",
+    "applicationStatus": "check_state_portal",
+    "statusNote": "A current 2026–27 application window was not confirmed in the official scheme page checked on 22 November 2026. Verify the relevant State/UT notification.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "pre-matric-scholarship-st-students-2026-27",
+    "name": "Pre-Matric Scholarship Scheme for ST Students",
+    "provider": "Ministry of Tribal Affairs / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "A centrally sponsored scholarship for eligible Scheduled Tribe students studying in Classes 9 and 10. The domicile State/UT invites applications and manages verification and disbursement.",
+    "benefits": "The Ministry's scheme page lists ₹225 per month for day scholars and ₹525 per month for hostellers for 10 months; confirm the current State/UT implementation notice.",
+    "amountMin": 2250,
+    "amountMax": 5250,
+    "eligibility": {
+      "categories": [
+        "Scheduled Tribe (ST)"
+      ],
+      "grades": [
+        "Class 9",
+        "Class 10"
+      ],
+      "annualFamilyIncomeMax": 250000,
+      "schoolTypes": [
+        "Government school",
+        "Government-recognised school",
+        "Central/State Board recognised school"
+      ],
+      "domicile": "State/UT of domicile"
+    },
+    "requiredDocuments": [
+      "ST certificate",
+      "Income certificate",
+      "School enrolment details",
+      "Bank account details and documents requested by the State/UT"
+    ],
+    "applicationProcess": "Check the Ministry of Tribal Affairs scheme page and your domicile State/UT scholarship portal for the current application window.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://tribal.nic.in/ScholarshiP.aspx",
+    "academicYear": "2026-27",
+    "applicationStatus": "check_state_portal",
+    "statusNote": "Application dates are state-managed; a nationwide open deadline was not confirmed in the official source checked on 22 November 2026.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "pre-matric-scholarship-disabilities-2026-27",
+    "name": "Pre-Matric Scholarship for Students with Disabilities",
+    "provider": "Department of Empowerment of Persons with Disabilities",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "A central scholarship for eligible students with benchmark disabilities studying in Classes 9 and 10. Applications are submitted through the National Scholarship Portal.",
+    "benefits": "The department's scheme page lists monthly support and annual book/disability allowances; check the latest guidelines for the applicable rate and fee coverage.",
+    "eligibility": {
+      "disability": "Benchmark disability of 40% or more",
+      "grades": [
+        "Class 9",
+        "Class 10"
+      ],
+      "annualFamilyIncomeMax": 250000,
+      "identity": "UDID requirements apply; check the current NSP instructions",
+      "otherScholarship": "Restrictions may apply if receiving another scholarship or stipend"
+    },
+    "requiredDocuments": [
+      "UDID card/details",
+      "Income certificate",
+      "School enrolment details",
+      "Identity and bank details requested by NSP"
+    ],
+    "applicationProcess": "Follow the current Department of Empowerment of Persons with Disabilities and NSP instructions. The department notes that UDID data consent is required before applying.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://depwd.gov.in/en/scholership-schemes-pre-matric/",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-10-31",
+    "statusNote": "NSP listed the 2026–27 application window as closed on 31 October 2026. Check for any official extension or the next cycle.",
+    "sourceLastChecked": "2026-11-22",
+    "verificationStatus": "verified",
+    "published": true
+  }
+]
