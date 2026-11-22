@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { ArrowUpRight, CalendarDays, MapPin, RefreshCw, Search, ShieldCheck } from "lucide-react";
 
@@ -39,16 +41,16 @@ export default function SchoolListings(){
       <label><span>Search</span><div><Search size={17}/><input value={q} onChange={e=>setQ(e.target.value)} placeholder="Scholarship or provider"/></div></label>
       <label><span>Class</span><select value={grade} onChange={e=>setGrade(e.target.value)}><option value="">All classes</option>{["Class 1","Class 2","Class 3","Class 4","Class 5","Class 6","Class 7","Class 8","Class 9","Class 10","Class 11","Class 12"].map(g=><option key={g}>{g}</option>)}</select></label>
       <label><span>State</span><select value={state} onChange={e=>setState(e.target.value)}><option value="">All states</option>{["Telangana","Andhra Pradesh","Karnataka","Kerala","Rajasthan","Maharashtra","Tamil Nadu","Delhi"].map(s=><option key={s}>{s}</option>)}</select></label>
-      <label><span>Support type</span><select value={category} onChange={e=>setCategory(e.target.value)}><option value="">All types</option>{["Merit-based","Means-cum-merit","Need-based","Targeted support"].map(s=><option key={s}>{s}</option>)}</select></label>
+      <label><span>Support type</span><select value={category} onChange={e=>setCategory(e.target.value)}><option value="">All types</option>{["Merit-based","Means-cum-merit","Merit-cum-need","Need-based","Targeted support","Welfare-based"].map(s=><option key={s}>{s}</option>)}</select></label>
     </div>
-    {loading?<div className="school-listing-state"><RefreshCw size={20}/> Loading verified records…</div>:error?<div className="school-listing-state school-listing-error"><h3>Scholarship database not connected yet</h3><p>{error} The research and database schema are in the repository; the live database connection still needs to be provisioned.</p></div>:items.length===0?<div className="school-listing-state"><h3>No matching verified records</h3><p>Try removing a filter. We do not display unverified scholarship claims.</p></div>:<div className="school-listing-grid">{items.map(item=><article className="school-listing-card" key={item.id}>
+    {loading?<div className="school-listing-state"><RefreshCw size={20}/> Loading verified records…</div>:error?<div className="school-listing-state school-listing-error"><h3>Scholarship database not connected yet</h3><p>{error} The school catalogue is available from the verified research records while the live database is being provisioned.</p></div>:items.length===0?<div className="school-listing-state"><h3>No matching scholarships found</h3><p>Try removing a filter. We do not display unverified scholarship claims.</p></div>:<div className="school-listing-grid">{items.map(item=><article className="school-listing-card" key={item.id}>
       <div className="school-listing-card-top"><span className={"school-status status-"+item.applicationStatus}>{statusLabels[item.applicationStatus]||"Check provider"}</span><span className="school-year">{item.academicYear}</span></div>
       <h3>{item.name}</h3><p className="school-listing-provider">{item.provider}</p><p className="school-listing-summary">{item.summary}</p>
       {item.benefits&&<div className="school-benefit"><b>Support</b><span>{item.benefits}</span></div>}
       <div className="school-listing-meta"><span><MapPin size={14}/>{item.states.includes("All India")?"India-wide":item.states.join(", ")}</span><span>{item.grades.slice(0,4).join(" · ")}</span></div>
       {item.applicationDeadline&&<div className="school-deadline"><CalendarDays size={15}/> Student application deadline: {new Date(item.applicationDeadline+"T00:00:00").toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"})}</div>}
       {item.statusNote&&<p className="school-status-note">{item.statusNote}</p>}
-      <div className="school-listing-actions"><a href={item.officialApplicationUrl||item.officialSourceUrl} target="_blank" rel="noreferrer">Official portal <ArrowUpRight size={15}/></a><a href={item.officialSourceUrl} target="_blank" rel="noreferrer">Source details</a></div>
+      <div className="school-listing-actions"><Link href={"/scholarships/"+item.slug}>View full details <ArrowUpRight size={15}/></Link><a href={item.officialApplicationUrl||item.officialSourceUrl} target="_blank" rel="noreferrer">Official portal <ArrowUpRight size={15}/></a></div>
       <small className="school-checked-date">Source checked {new Date(item.sourceLastCheckedAt).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"})}</small>
     </article>)}</div>}
   </section>;
