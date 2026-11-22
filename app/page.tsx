@@ -58,7 +58,7 @@ export default function Home() {
               <input value={query} onChange={e => setQuery(e.target.value)} placeholder="Try “B.Tech scholarships in Telangana”" aria-label="Search scholarships"/>
               <button type="submit">Search <ArrowRight size={17}/></button>
             </form>
-            <div className="hero-hint"><Sparkles size={15}/> Search by course, state, education level or provider</div>
+            <div className="hero-hint"><Sparkles size={15}/> Search by course, state, education level or provider</div><a href="/find-scholarships" className="text-link">Find scholarships for me <ArrowUpRight size={15}/></a>
             <a href="#explore" className="text-link">Explore opportunities <ArrowDown size={15}/></a>
           </div>
           <div className="hero-art" aria-label="Illustration of scholarship discovery">
@@ -105,7 +105,7 @@ export default function Home() {
 
       <section className="closing-section" id="about"><div className="container closing-inner"><div className="closing-orb">✳</div><div className="eyebrow">YOUR NEXT STEP STARTS HERE</div><h2>Find the support.<br/><span>Make it count.</span></h2><p>Explore scholarship information, check the details, and connect with the official provider.</p><a className="closing-button" href="#search">Find scholarships <ArrowUpRight size={17}/></a></div></section>
 
-      <footer className="footer"><div className="container footer-main"><a className="brand footer-brand" href="#"><span className="brand-mark"><GraduationCap size={22}/></span><span>scholar<span className="brand-accent">sphere</span><i>.</i></span></a><p>Better access to opportunity<br/>starts with better information.</p><div className="footer-links"><a href="#how-it-works">How it works</a><a href="#explore">Explore</a><a href="#about">About</a></div></div><div className="container footer-bottom"><span>© 2026 ScholarSphere</span><span>Scholarship discovery, not application processing.</span><span>Built for possibilities <span className="footer-star">✳</span></span></div></footer>
+      <footer className="footer"><div className="container footer-main"><a className="brand footer-brand" href="#"><span className="brand-mark"><GraduationCap size={22}/></span><span>scholar<span className="brand-accent">sphere</span><i>.</i></span></a><p>Better access to opportunity<br/>starts with better information.</p><div className="footer-links"><a href="#how-it-works">How it works</a><a href="#explore">Explore</a><a href="/find-scholarships">Scholarship finder</a><a href="/providers/submit">For providers</a><a href="#about">About</a></div></div><div className="container footer-bottom"><span>© 2026 ScholarSphere</span><span>Scholarship discovery, not application processing.</span><span>Built for possibilities <span className="footer-star">✳</span></span></div></footer>
     </main>
   );
 }
