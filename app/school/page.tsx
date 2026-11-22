@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SchoolListings from "./school-listings";
 import { ArrowLeft, ArrowRight, BookOpen, GraduationCap, Landmark, HeartHandshake, Search, ShieldCheck, Wallet, Award, Users } from "lucide-react";
 
 const supportTypes = [
@@ -47,6 +48,8 @@ export default function SchoolScholarshipsPage() {
           <small>LEARN · DISCOVER · GROW</small>
         </div>
       </section>
+
+      <SchoolListings />
 
       <section className="school-content">
         <div className="school-section-heading">
