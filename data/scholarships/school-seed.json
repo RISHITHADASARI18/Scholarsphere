@@ -800,5 +800,368 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "ntse-legacy-programme",
+    "name": "National Talent Search Examination (NTSE)",
+    "provider": "NCERT / Ministry of Education",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Legacy national talent-search examination included for reference. NTSE is not currently accepting applications as a live scholarship cycle; do not treat this card as an open opportunity.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://ncert.nic.in/",
+    "officialSourceUrl": "https://ncert.nic.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "NTSE has not had a current active national cycle confirmed. This is retained for historical reference only; check NCERT for any official revival.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "kvpy-legacy-programme",
+    "name": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+    "provider": "Department of Science and Technology / IISc",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Legacy science fellowship programme included for reference. KVPY is no longer a separate active application programme; science scholarship pathways have since been reorganised under INSPIRE.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.inspire-dst.gov.in/",
+    "officialSourceUrl": "https://www.inspire-dst.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "KVPY is not currently offered as a separate scholarship. Check the official INSPIRE programme for current opportunities.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "tata-trusts-means-grant-school",
+    "name": "Tata Trusts Means Grant for School Students",
+    "provider": "Tata Trusts",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Means-based education grant programme for eligible school students. Confirm the current application route, eligible classes and location-specific conditions with Tata Trusts.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.tatatrusts.org/",
+    "officialSourceUrl": "https://www.tatatrusts.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "mahindra-saarthi-abhiyaan",
+    "name": "Mahindra Saarthi Abhiyaan",
+    "provider": "Mahindra & Mahindra",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support initiative associated with daughters of commercial vehicle drivers. The current cohort, beneficiary definition and award terms must be checked with the official Mahindra programme.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.mahindra.com/",
+    "officialSourceUrl": "https://www.mahindra.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "indianoil-academic-sports-school",
+    "name": "IndianOil Academic & Sports Scholarships",
+    "provider": "IndianOil Corporation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship programme covering eligible academic and sports categories. Confirm the current discipline, class, selection and application rules on IndianOil's official website.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://iocl.com/",
+    "officialSourceUrl": "https://iocl.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "gail-utkarsh-school",
+    "name": "GAIL Utkarsh / Merit Scholarships",
+    "provider": "GAIL (India) Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support and merit scholarship initiatives associated with GAIL. Current class coverage and application availability require confirmation from the provider.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.gailonline.com/",
+    "officialSourceUrl": "https://www.gailonline.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "ntpc-utkarsh-school",
+    "name": "NTPC Utkarsh Merit Scholarship",
+    "provider": "NTPC Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Merit-support programme name supplied for the catalogue. Confirm whether a current student-facing scholarship cycle is available and the eligible locations/classes with NTPC.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.ntpc.co.in/",
+    "officialSourceUrl": "https://www.ntpc.co.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "vidyadhan-school",
+    "name": "Vidyadhan Scholarship – School to Higher Secondary Support",
+    "provider": "Sarojini Damodaran Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Vidyadhan supports students with strong academic performance and financial need, with state-specific cohorts and progression rules. Check the current state programme and eligible class before applying.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.vidyadhan.org/",
+    "officialSourceUrl": "https://www.vidyadhan.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "swami-vivekananda-mcm-school",
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+    "provider": "Government of West Bengal",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "West Bengal"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "West Bengal state merit-cum-means scholarship for eligible students continuing school and higher education. This is a state-specific scheme, not an all-India award.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://svmcm.wbhed.gov.in/",
+    "officialSourceUrl": "https://svmcm.wbhed.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "kotak-junior-scholarship",
+    "name": "Kotak Junior Scholarship",
+    "provider": "Kotak Education Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Maharashtra"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education support for eligible students continuing higher-secondary education. Geographic eligibility and the current cohort are limited by the provider's latest notice; confirm the exact service area before applying.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.kotakeducation.org/",
+    "officialSourceUrl": "https://www.kotakeducation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme has been associated with a limited Mumbai Metropolitan Region cohort. Confirm the current eligible geography and intake directly with Kotak Education Foundation.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
