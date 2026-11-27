@@ -294,5 +294,77 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "sitaram-jindal-diploma",
+    "name": "Sitaram Jindal Foundation Scholarship – Diploma",
+    "provider": "Sitaram Jindal Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Year 2",
+      "Diploma Year 3"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The Foundation's published terms include eligible diploma students. Age, family-income, institution and one-application-per-course conditions apply; confirm current award details.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "officialSourceUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "azim-premji-diploma",
+    "name": "Azim Premji Scholarship – Diploma",
+    "provider": "Azim Premji Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The Foundation's scholarship supports eligible girl students pursuing a first undergraduate degree or diploma in covered regions. Check the current cohort's geography and course conditions.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/",
+    "officialSourceUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
