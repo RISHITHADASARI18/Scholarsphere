@@ -531,10 +531,10 @@
     "published": true
   },
   {
-    "slug": "tata-trusts-means-grant-class-11-12",
-    "name": "Tata Trusts Means Grant Programme – Classes 11 & 12",
-    "provider": "Tata Trusts",
-    "providerType": "foundation",
+    "slug": "tata-capital-pankh-intermediate-2026-27",
+    "name": "Tata Capital Pankh Scholarship – Classes 11 & 12",
+    "provider": "Tata Capital Limited",
+    "providerType": "corporate",
     "educationLevels": [
       "Intermediate"
     ],
@@ -546,28 +546,32 @@
       "All India"
     ],
     "categories": [
+      "Merit-cum-need",
       "Need-based"
     ],
-    "scholarshipType": "Need-based",
-    "summary": "Partial, need-based education assistance for Indian residents studying in recognised institutions. Tata Trusts states that the Means Grant is available from Standard VIII through graduation and that 2026–27 applications are being accepted by email.",
-    "benefits": "Partial assistance for the relevant academic year, generally on a reimbursement basis; the amount is assessed against need and programme rules.",
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Tata Capital's Pankh programme supports academically bright students from economically challenged backgrounds. Tata Capital confirms the programme and its online application route; exact current class bands, award caps and dates should be checked in the live application notice.",
+    "benefits": "Support is linked to tuition fees and programme-specific caps. Confirm the applicable amount for the current Class 11–12 cycle on the official portal.",
     "eligibility": {
-      "grades": "Standard VIII onward through graduation",
-      "institution": "Recognised institution",
-      "selection": "Need-based assessment; programme-specific conditions apply"
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "selection": "Academic merit and financial need; special focus includes women and affirmative-action communities",
+      "other": "Current cycle criteria and course-specific rules apply"
     },
     "requiredDocuments": [
-      "Current admission proof",
-      "Academic records",
-      "Fee receipts and expense details",
-      "Income/need documents requested by Tata Trusts"
+      "Academic marksheets",
+      "Admission/enrolment proof",
+      "Income and category documents where applicable",
+      "Identity and bank details requested by the programme"
     ],
-    "applicationProcess": "Read the official Means Grant programme page and follow its current email-based application instructions. Confirm the deadline and documents before sending an application.",
-    "officialApplicationUrl": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
-    "officialSourceUrl": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "applicationProcess": "Use Tata Capital's official education page to access the Pankh scholarship portal. Confirm the current Class 11–12 category and application dates before applying.",
+    "officialApplicationUrl": "https://www.tatacapital.com/sustainability/education.html",
+    "officialSourceUrl": "https://www.tatacapital.com/sustainability/education.html",
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
-    "statusNote": "Tata Trusts' official page says 2026–27 applications are currently being accepted by email; confirm the current programme instructions and eligibility before applying.",
+    "statusNote": "Tata Capital confirms Pankh as an ongoing education initiative and says applications open around September each year. A current 2026–27 Class 11–12 deadline and award cap were not confirmed from the official page checked on 27 November 2026.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
