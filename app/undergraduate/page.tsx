@@ -1,4 +1,5 @@
 import Link from "next/link";
+import LevelScholarshipListings from "@/components/level-scholarship-listings";
 import { ArrowLeft, ArrowRight, GraduationCap, Building2, Landmark, HeartHandshake, Search, ShieldCheck, Wallet, Award, FlaskConical, Globe, BriefcaseBusiness } from "lucide-react";
 
 const support = [
@@ -17,6 +18,7 @@ export default function UndergraduateScholarshipsPage(){
    <form className="school-search" action="/scholarships" method="get"><Search size={20}/><input type="search" name="q" placeholder="Search B.Tech, B.Com, B.Sc scholarships or companies…" aria-label="Search undergraduate scholarships"/><input type="hidden" name="level" value="Undergraduate"/><button type="submit">Search <ArrowRight size={16}/></button></form><div className="school-search-note">Try “B.Tech scholarship”, “first-year degree”, “women in STEM” or a company/provider name.</div></div>
    <div className="school-hero-aside"><div className="school-aside-icon"><GraduationCap size={35}/></div><span>UNDERGRADUATE YEARS</span><strong>Invest in the<br/>future you're shaping.</strong><p>Find funding that aligns with your course, goals and eligibility.</p><div className="school-aside-rule"></div><small>DISCOVER · COMPARE · GROW</small></div>
   </section>
+  <LevelScholarshipListings level="Undergraduate" />
   <section className="school-content"><div className="school-section-heading"><div><div className="eyebrow dark-eyebrow">FUNDING ACROSS DISCIPLINES</div><h2>Different degrees.<br/><em>Different pathways.</em></h2></div><p>Undergraduate scholarships may be course-specific, merit-based, need-based or sponsored by companies and institutions. Always check which degree years and colleges are covered.</p></div>
    <div className="school-support-grid">{support.map(({icon:Icon,title,text},i)=><article className="school-support-card" key={title}><span className="school-card-number">0{i+1}</span><span className="school-support-icon"><Icon size={23}/></span><h3>{title}</h3><p>{text}</p></article>)}</div>
   </section>
