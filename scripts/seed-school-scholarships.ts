@@ -15,7 +15,7 @@ async function main(){
   const url=process.env.DATABASE_URL;
   if(!url) throw new Error("DATABASE_URL is missing. Add the Neon pooled connection string before seeding.");
   const sql=neon(url);
-  const files=["school-seed.json","intermediate-seed.json","diploma-seed.json"];
+  const files=["school-seed.json","intermediate-seed.json","diploma-seed.json","undergraduate-seed.json","postgraduate-seed.json","research-seed.json"];
   const records:SeedRecord[]=[];
   for(const name of files){const file=resolve(process.cwd(),"data/scholarships",name);records.push(...JSON.parse(await readFile(file,"utf8")) as SeedRecord[]);}
   for(const r of records){
@@ -48,6 +48,6 @@ async function main(){
     `;
     console.log("Seeded:",r.slug);
   }
-  console.log(`Imported ${records.length} scholarship records across school, intermediate and diploma.`);
+  console.log(`Imported ${records.length} scholarship records across all education levels.`);
 }
 main().catch(error=>{console.error(error);process.exit(1);});
