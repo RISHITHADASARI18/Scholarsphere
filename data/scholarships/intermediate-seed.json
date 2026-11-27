@@ -336,5 +336,240 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "post-matric-sc-scholarship-classes-11-12",
+    "name": "Post-Matric Scholarship for SC Students (Classes 11–12)",
+    "provider": "Department of Social Justice & Empowerment / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Centrally sponsored post-matric support for eligible Scheduled Caste students after Class 10. The scheme is implemented by the student's domicile State/UT and can cover recognised post-matric courses, including eligible higher-secondary study.",
+    "benefits": "Eligible compulsory fees and maintenance support are governed by the scheme guidelines and State/UT implementation. The amount depends on course group and applicable rules.",
+    "eligibility": {
+      "category": "Scheduled Caste (SC)",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "income": "Annual parental income ceiling generally ₹2.5 lakh under the central guidelines",
+      "domicile": "Apply through the State/UT of domicile",
+      "institution": "Recognised institution and eligible course"
+    },
+    "requiredDocuments": [
+      "SC certificate",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Current admission/enrolment proof",
+      "Bank and identity details requested by the State/UT portal"
+    ],
+    "applicationProcess": "Apply through the domicile State/UT scholarship portal or the National Scholarship Portal when the relevant application window is open.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://socialjustice.gov.in/schemes/25",
+    "academicYear": "2026-27",
+    "applicationStatus": "check_state_portal",
+    "statusNote": "The scheme is open-ended and demand-driven, but application windows and processing are State/UT managed. Check the current state notification.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "post-matric-st-scholarship-classes-11-12",
+    "name": "Post-Matric Scholarship for ST Students (Classes 11–12)",
+    "provider": "Ministry of Tribal Affairs / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Centrally sponsored support for eligible Scheduled Tribe students studying after Class 10, including Class 11 and 12. States/UTs invite applications, verify eligibility and disburse awards.",
+    "benefits": "Compulsory fees subject to State limits plus a course-based maintenance allowance; exact rates depend on the course group and current guidelines.",
+    "eligibility": {
+      "category": "Scheduled Tribe (ST)",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "income": "Annual parental income ceiling ₹2.5 lakh",
+      "domicile": "Apply through the State/UT of domicile",
+      "institution": "Recognised institution and eligible course"
+    },
+    "requiredDocuments": [
+      "ST certificate",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Current admission/enrolment proof",
+      "Bank and identity details requested by the State/UT portal"
+    ],
+    "applicationProcess": "Apply through the domicile State/UT scholarship portal or NSP when applications are invited. Confirm course eligibility and current dates with the State/UT.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://tribal.nic.in/ScholarshiP.aspx",
+    "academicYear": "2026-27",
+    "applicationStatus": "check_state_portal",
+    "statusNote": "The Ministry confirms this scheme for Class XI and above. States/UTs manage the application and disbursement process; check the current state window.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "post-matric-minority-scholarship-classes-11-12",
+    "name": "Post-Matric Scholarship for Minority Students (Classes 11–12)",
+    "provider": "Ministry of Minority Affairs / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-cum-means"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Government scheme material describes post-matric support for eligible minority-community students in Classes 11 and 12 and other post-secondary courses. The current operational status and application route must be confirmed before treating it as an active award.",
+    "benefits": "Benefits and fee/maintenance limits depend on the currently operative scheme guidelines; no current amount is asserted.",
+    "eligibility": {
+      "communities": "Notified minority communities under the applicable scheme",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "eligibility": "Merit-and-means criteria under the applicable notification",
+      "institution": "Recognised institution"
+    },
+    "requiredDocuments": [
+      "Community/category proof if required",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Current admission proof",
+      "Bank and identity details requested by the portal"
+    ],
+    "applicationProcess": "Check the latest Ministry and State/UT notices and NSP. Apply only if the specific scheme is listed as active for the current academic year.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.indiabudget.gov.in/doc/eb/sbe70.pdf",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The official Government budget document describes the post-matric scheme, but a live 2026–27 student application window was not confirmed in the source check.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sitaram-jindal-foundation-scholarship-class-11-12",
+    "name": "Sitaram Jindal Foundation Scholarship – Classes 11 & 12",
+    "provider": "Sitaram Jindal Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-cum-means"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Foundation scholarship for eligible students in Classes 11 and 12. The foundation's current application terms specify eligible institutions, age and family-income conditions; award amounts depend on the applicable category.",
+    "benefits": "Monthly scholarship amount varies by class/category and the foundation's current terms; confirm the amount on the application page.",
+    "eligibility": {
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "age": "Maximum age 30 years under current published terms",
+      "income": "Salaried families up to ₹4 lakh/year; other families up to ₹2.5 lakh/year",
+      "institution": "Government/government-aided and qualifying private institutions"
+    },
+    "requiredDocuments": [
+      "Previous marksheet",
+      "Income proof",
+      "Admission/enrolment proof",
+      "Identity and bank details requested by the Foundation"
+    ],
+    "applicationProcess": "Read the Foundation's current terms and apply through its official scholarship application portal.",
+    "officialApplicationUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "officialSourceUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The official Foundation FAQ confirms Classes 11 and 12 are eligible and publishes income limits. Confirm the current award amount and application availability in the live portal.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "tata-trusts-means-grant-class-11-12",
+    "name": "Tata Trusts Means Grant Programme – Classes 11 & 12",
+    "provider": "Tata Trusts",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Partial, need-based education assistance for Indian residents studying in recognised institutions. Tata Trusts states that the Means Grant is available from Standard VIII through graduation and that 2026–27 applications are being accepted by email.",
+    "benefits": "Partial assistance for the relevant academic year, generally on a reimbursement basis; the amount is assessed against need and programme rules.",
+    "eligibility": {
+      "grades": "Standard VIII onward through graduation",
+      "institution": "Recognised institution",
+      "selection": "Need-based assessment; programme-specific conditions apply"
+    },
+    "requiredDocuments": [
+      "Current admission proof",
+      "Academic records",
+      "Fee receipts and expense details",
+      "Income/need documents requested by Tata Trusts"
+    ],
+    "applicationProcess": "Read the official Means Grant programme page and follow its current email-based application instructions. Confirm the deadline and documents before sending an application.",
+    "officialApplicationUrl": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "officialSourceUrl": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Tata Trusts' official page says 2026–27 applications are currently being accepted by email; confirm the current programme instructions and eligibility before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
