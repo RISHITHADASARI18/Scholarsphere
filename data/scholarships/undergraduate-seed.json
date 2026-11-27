@@ -851,7 +851,7 @@
   },
   {
     "slug": "udayan-shalini-fellowship",
-    "name": "Udayan Shalini Fellowship",
+    "name": "Fairy Queen / Udayan Shalini Fellowship",
     "provider": "Udayan Care",
     "providerType": "foundation",
     "educationLevels": [
@@ -868,7 +868,7 @@
       "Need-based"
     ],
     "scholarshipType": "Merit-cum-need",
-    "summary": "Long-term education and mentoring fellowship for selected girl students. Eligibility and availability depend on the city/state chapter and current intake; confirm the active local programme.",
+    "summary": "The supplied list used the combined title “Fairy Queen / Udayan Shalini Fellowship”. Udayan Shalini is a long-term education and mentoring fellowship for selected girl students; the “Fairy Queen” wording could not be independently matched to a separate current award. Confirm the exact programme title and local chapter intake with Udayan Care.",
     "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
     "eligibility": {
       "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
@@ -1055,6 +1055,42 @@
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
     "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "inspire-she-scholarship",
+    "name": "INSPIRE Scholarship for Higher Education (INSPIRE-SHE)",
+    "provider": "Department of Science and Technology, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1",
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Science scholarship for eligible students pursuing basic and natural science degrees after Class 12. It is not a Class 11–12 scholarship; confirm eligible courses, selection route and current DST call.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.inspire-dst.gov.in/",
+    "officialSourceUrl": "https://www.inspire-dst.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "INSPIRE-SHE supports higher education in eligible science courses. It should not be presented as a general Class 11–12 scholarship or as the same scheme as the discontinued KVPY.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
