@@ -27,7 +27,7 @@ function logoFor(provider:string,source:string){
 }
 function ProviderLogo({item}:{item:Scholarship}){
   const [failed,setFailed]=useState(false);
-  const initials=item.provider.split(/\\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join("").toUpperCase();
+  const initials=item.provider.split(/\s+/).filter(Boolean).slice(0,2).map(x=>x[0]).join("").toUpperCase();
   return <span className="school-provider-logo">{failed?<span>{initials}</span>:<img src={logoFor(item.provider,item.officialSourceUrl)} alt={item.provider+" logo"} onError={()=>setFailed(true)}/>}</span>;
 }
 
