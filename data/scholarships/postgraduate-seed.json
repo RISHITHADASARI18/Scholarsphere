@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "reliance-foundation-pg",
+    "name": "Reliance Foundation Postgraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "For 2026–27, supports first-year full-time postgraduate students in selected future-ready disciplines including engineering, technology, energy and life sciences, with awards up to ₹6 lakh. The 2026–27 application window is closed.",
+    "benefits": "Up to ₹6 lakh over the postgraduate programme; 2026–27 applications are closed.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://scholarships.reliancefoundation.org/PG_Scholarship.aspx",
+    "officialSourceUrl": "https://scholarships.reliancefoundation.org/PG_Scholarship.aspx",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "kc-mahindra-scholarship",
+    "name": "K.C. Mahindra Scholarship",
+    "provider": "K.C. Mahindra Education Trust",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education funding programme associated with postgraduate study, including overseas study awards. Confirm the exact scholarship stream, destination, eligibility and current cycle with K.C. Mahindra Education Trust.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.kcmet.org/",
+    "officialSourceUrl": "https://www.kcmet.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "lnt-build-india",
+    "name": "L&T Build India Scholarship",
+    "provider": "Larsen & Toubro",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship programme associated with selected engineering graduates pursuing M.Tech in Construction Technology and Management at partner institutions. Confirm the current intake, sponsorship terms and eligibility with L&T.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.larsentoubro.com/",
+    "officialSourceUrl": "https://www.larsentoubro.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sitaram-jindal-pg",
+    "name": "Sitaram Jindal Foundation Scholarship – Postgraduate",
+    "provider": "Sitaram Jindal Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The Foundation's published terms include eligible postgraduate students in general, medical and engineering fields. Age, income, institution and course conditions apply.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "officialSourceUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "ambedkar-overseas-vidya-nidhi",
+    "name": "Ambedkar Overseas Vidya Nidhi",
+    "provider": "Government of Telangana – SC/ST Welfare Departments",
+    "providerType": "government",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Telangana overseas scholarship support for eligible SC/ST students pursuing higher studies abroad. Official guidelines include family-income, graduation marks, admission, country and language-test conditions; verify the relevant SC or ST stream and current notification.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/OverseasLinks.jsp",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/OverseasLinks.jsp",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "swami-vivekananda-mcm-pg",
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+    "provider": "Government of West Bengal",
+    "providerType": "government",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate"
+    ],
+    "states": [
+      "West Bengal"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "West Bengal state merit-cum-means scholarship for eligible postgraduate students. Domicile, income, marks and course conditions apply.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://svmcm.wbhed.gov.in/",
+    "officialSourceUrl": "https://svmcm.wbhed.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  }
+]
