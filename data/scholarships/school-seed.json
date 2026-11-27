@@ -1163,5 +1163,177 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "canara-vidya-jyothi-sc-st-girls",
+    "name": "Canara Bank Merit Scholarship for SC/ST Girl Students (Vidya Jyothi)",
+    "provider": "Canara Bank",
+    "providerType": "bank",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Education support initiative",
+    "summary": "Merit support for eligible SC/ST girl students in school. Canara Bank's public materials describe branch-level scholarship support; confirm the current class, selection and local branch process before applying.",
+    "benefits": "Benefits and eligibility are programme-specific. Check the current official provider notice.",
+    "eligibility": {
+      "details": "The provider's current programme notice is the authoritative source for eligibility, geography, age/class/course and selection criteria."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Review the official programme page and follow the provider's current instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://canarabank.bank.in/",
+    "officialSourceUrl": "https://canarabank.bank.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The supplied list grouped this with Vidya Turant. Vidya Turant is an education loan, while this is a separate merit-support initiative; confirm current details with Canara Bank.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "reliance-foundation-school-support",
+    "name": "Reliance Foundation School Support Initiatives",
+    "provider": "Reliance Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Education support initiative",
+    "summary": "School-level education support mentioned in the supplied list. The Foundation's public scholarship catalogue is focused on higher education; a separate current school-student scholarship could not be confirmed. This card is retained as a provider-verification lead, not a confirmed open scholarship.",
+    "benefits": "Benefits and eligibility are programme-specific. Check the current official provider notice.",
+    "eligibility": {
+      "details": "The provider's current programme notice is the authoritative source for eligibility, geography, age/class/course and selection criteria."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Review the official programme page and follow the provider's current instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.reliancefoundation.org/what-we-do/education/reliance-foundation-scholarships",
+    "officialSourceUrl": "https://www.reliancefoundation.org/what-we-do/education/reliance-foundation-scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Not confirmed as a standalone student scholarship. Verify the exact school support programme with Reliance Foundation.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "infosys-foundation-school-initiatives",
+    "name": "Infosys Foundation School Initiatives",
+    "provider": "Infosys Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Education support initiative",
+    "summary": "School education and STEM initiatives associated with Infosys Foundation. A separate direct-to-student school scholarship under this exact title was not confirmed; check the Foundation's current programmes.",
+    "benefits": "Benefits and eligibility are programme-specific. Check the current official provider notice.",
+    "eligibility": {
+      "details": "The provider's current programme notice is the authoritative source for eligibility, geography, age/class/course and selection criteria."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Review the official programme page and follow the provider's current instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.infosys.com/infosys-foundation/",
+    "officialSourceUrl": "https://www.infosys.com/infosys-foundation/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Education initiative listing only. Do not treat this as an individual scholarship unless the Foundation publishes a current student award.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "satya-bharti-school-support-merit-grants",
+    "name": "Bharti Airtel Foundation Satya Bharti School Support / Merit Grants",
+    "provider": "Bharti Airtel Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Education support initiative",
+    "summary": "School-support and merit-grant wording supplied for the catalogue. The Foundation's Satya Bharti programme is associated with school education; confirm whether any current individual student scholarship or merit grant is offered.",
+    "benefits": "Benefits and eligibility are programme-specific. Check the current official provider notice.",
+    "eligibility": {
+      "details": "The provider's current programme notice is the authoritative source for eligibility, geography, age/class/course and selection criteria."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Review the official programme page and follow the provider's current instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bhartiairtelfoundation.org/",
+    "officialSourceUrl": "https://www.bhartiairtelfoundation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "This card represents a school-support programme lead, not a confirmed current individual scholarship. Check the Foundation's official programme details.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
