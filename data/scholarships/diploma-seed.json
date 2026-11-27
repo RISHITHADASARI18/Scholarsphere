@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "aicte-pragati-diploma-2026-27",
+    "name": "AICTE Pragati Scholarship – Technical Diploma",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Lateral Entry"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Scholarship for eligible girl students admitted to an AICTE-approved technical diploma programme. Seat, family-income and admission conditions apply.",
+    "benefits": "Up to ₹50,000 per year under published scheme guidelines; verify current cycle and permitted use.",
+    "eligibility": {
+      "applicant": "Girl students meeting the current AICTE scheme conditions.",
+      "institution": "AICTE-approved technical diploma institution.",
+      "income": "Family income ceiling applies."
+    },
+    "requiredDocuments": [
+      "Admission proof",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Identity and bank details",
+      "Other documents requested by NSP"
+    ],
+    "applicationProcess": "Apply through NSP during the notified AICTE scholarship cycle.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026. Confirm current conditions in the official specifications.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "aicte-saksham-diploma-2026-27",
+    "name": "AICTE Saksham Scholarship – Technical Diploma",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Lateral Entry"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Support for eligible specially-abled students admitted to an AICTE-approved technical diploma programme.",
+    "benefits": "Up to ₹50,000 per year under published scheme guidelines; check current specifications and allowances.",
+    "eligibility": {
+      "applicant": "Students meeting the scheme's benchmark-disability requirements.",
+      "institution": "AICTE-approved technical diploma institution.",
+      "income": "Family income ceiling applies."
+    },
+    "requiredDocuments": [
+      "Disability certificate / UDID",
+      "Admission proof",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Bank details"
+    ],
+    "applicationProcess": "Apply through NSP when the AICTE diploma scheme is open.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "NSP 2026–27 listing shows applications through 30 November 2026; check the scheme specifications for disability and institution rules.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "aicte-swanath-diploma-2026-27",
+    "name": "AICTE Swanath Scholarship – Technical Diploma",
+    "provider": "All India Council for Technical Education (AICTE)",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Lateral Entry"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Support for eligible students in AICTE-approved technical diploma courses who meet the scheme's specified family circumstances, including eligible orphans, wards of parents who died due to COVID-19, or wards of armed forces/CAPF personnel martyred in action, as defined by current rules.",
+    "benefits": "Up to ₹50,000 per year under published scheme guidelines; verify current eligibility and amount.",
+    "eligibility": {
+      "institution": "AICTE-approved technical diploma institution.",
+      "applicant": "Must fall within one of the scheme's defined beneficiary categories.",
+      "income": "Check current scheme notice."
+    },
+    "requiredDocuments": [
+      "Relevant beneficiary-category proof",
+      "Admission proof",
+      "Income and identity documents as requested",
+      "Previous marksheet"
+    ],
+    "applicationProcess": "Apply through NSP during the notified cycle.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026; verify the exact category definitions.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "hdfc-parivartan-ecss-diploma-2026-27",
+    "name": "HDFC Bank Parivartan ECSS – Diploma Students",
+    "provider": "HDFC Bank Parivartan",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Year 2",
+      "Diploma Year 3"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Corporate education assistance for diploma students facing financial difficulty or a personal/family crisis; course and academic criteria apply.",
+    "benefits": "The official programme page lists diploma-category assistance; confirm current award amount and eligibility.",
+    "eligibility": {
+      "course": "Diploma/polytechnic students as specified by the current cycle.",
+      "marks": "Previous-year marks threshold applies; verify current notice.",
+      "income": "Family income ceiling applies."
+    },
+    "requiredDocuments": [
+      "Previous-year marksheet",
+      "Current admission proof",
+      "Income proof",
+      "Identity and bank details",
+      "Crisis evidence if relevant"
+    ],
+    "applicationProcess": "Apply through the official ECSS programme page when applications are open.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://www.parivartanecss.com/index.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Check the official programme page for current diploma-specific award details and application dates.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  }
+]
