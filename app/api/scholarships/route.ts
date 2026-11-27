@@ -3,6 +3,9 @@ import { getDb } from "@/lib/db";
 import schoolSeed from "@/data/scholarships/school-seed.json";
 import intermediateSeed from "@/data/scholarships/intermediate-seed.json";
 import diplomaSeed from "@/data/scholarships/diploma-seed.json";
+import undergraduateSeed from "@/data/scholarships/undergraduate-seed.json";
+import postgraduateSeed from "@/data/scholarships/postgraduate-seed.json";
+import researchSeed from "@/data/scholarships/research-seed.json";
 
 export const dynamic = "force-dynamic";
 
@@ -12,9 +15,9 @@ export async function GET(request: NextRequest) {
   const db = getDb();
   if (!db) {
     const level = request.nextUrl.searchParams.get("level") || "School";
-    const source = level === "School" ? schoolSeed : level === "Intermediate" ? intermediateSeed : level === "Diploma" ? diplomaSeed : null;
+    const source = level === "School" ? schoolSeed : level === "Intermediate" ? intermediateSeed : level === "Diploma" ? diplomaSeed : level === "Undergraduate" ? undergraduateSeed : level === "Postgraduate" ? postgraduateSeed : level === "Research" ? researchSeed : null;
     if (!source) {
-      return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "This education-level catalogue is being connected. Verified seed catalogues are currently available for School, Intermediate and Diploma." }, { status: 503 });
+      return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "This education-level catalogue is being connected. Verified seed catalogues are currently available for all education levels." }, { status: 503 });
     }
     const p = request.nextUrl.searchParams;
     const q = (p.get("q") || "").toLowerCase();
