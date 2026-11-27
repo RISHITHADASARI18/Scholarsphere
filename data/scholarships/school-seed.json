@@ -495,5 +495,61 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "sbi-platinum-jubilee-asha-school-2026-27",
+    "name": "SBI Platinum Jubilee Asha Scholarship – School Students",
+    "provider": "SBI Foundation (CSR arm of State Bank of India)",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "A national scholarship for meritorious school students from economically weaker backgrounds studying in Classes 9–12. Selection considers academic performance and family income; 50% of slots are reserved for female students.",
+    "benefits": "₹15,000 for the school-student category for the 2026–27 cycle, subject to selection and programme conditions.",
+    "amountMin": 15000,
+    "amountMax": 15000,
+    "eligibility": {
+      "grades": [
+        "Class 9",
+        "Class 10",
+        "Class 11",
+        "Class 12"
+      ],
+      "marks": "75% or 7.5 CGPA in the previous academic year; relaxations apply to specified categories.",
+      "annualFamilyIncomeMax": 300000,
+      "nationality": "Indian nationals"
+    },
+    "requiredDocuments": [
+      "Previous academic-year marksheet",
+      "Current admission / bonafide proof",
+      "Income proof",
+      "Government identity proof",
+      "Bank passbook",
+      "Category or disability certificate if applicable"
+    ],
+    "applicationProcess": "The 2026–27 application cycle is closed. Check the official SBI Asha portal for result updates and the next application cycle.",
+    "officialApplicationUrl": "https://www.sbiashascholarship.co.in/",
+    "officialSourceUrl": "https://sbifoundation.in/ashascholarship1",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-09-19",
+    "statusNote": "The official programme portal says applications closed on 19 September 2026. School-category shortlisting/results were still awaited on the official site at the time checked.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
