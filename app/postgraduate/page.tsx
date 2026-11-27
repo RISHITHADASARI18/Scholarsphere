@@ -1,4 +1,5 @@
 import Link from "next/link";
+import LevelScholarshipListings from "@/components/level-scholarship-listings";
 import { ArrowLeft, ArrowRight, BookOpen, GraduationCap, Landmark, HeartHandshake, Search, ShieldCheck, Wallet, Award, Users } from "lucide-react";
 
 const supportTypes = [
