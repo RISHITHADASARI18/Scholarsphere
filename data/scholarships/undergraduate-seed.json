@@ -74,7 +74,7 @@
     "slug": "federal-bank-hormis",
     "name": "Federal Bank Hormis Memorial Foundation Scholarship",
     "provider": "Federal Bank Hormis Memorial Foundation",
-    "providerType": "bank",
+    "providerType": "corporate",
     "educationLevels": [
       "Undergraduate"
     ],
@@ -113,9 +113,9 @@
   },
   {
     "slug": "baroda-scholars-programme",
-    "name": "Bank of Baroda Baroda Scholars",
+    "name": "Bank of Baroda Baroda Scholars (Education Finance; Scholarship Status to Confirm)",
     "provider": "Bank of Baroda",
-    "providerType": "bank",
+    "providerType": "corporate",
     "educationLevels": [
       "Undergraduate"
     ],
@@ -126,11 +126,11 @@
       "All India"
     ],
     "categories": [
-      "Merit-based",
-      "Need-based"
+      "Education finance",
+      "Needs provider confirmation"
     ],
-    "scholarshipType": "Merit-cum-need",
-    "summary": "The supplied name may refer to Bank of Baroda's education-finance/merit support offerings. Confirm whether the current offering is a scholarship or an education loan before treating it as a grant.",
+    "scholarshipType": "Education finance product (not confirmed as scholarship)",
+    "summary": "The supplied list names Baroda Scholars. Bank of Baroda's student-finance products may include education loans; a current direct scholarship under this exact name has not been confirmed. Check the official bank notice before treating this as grant funding.",
     "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
     "eligibility": {
       "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
@@ -141,7 +141,7 @@
     "officialSourceUrl": "https://www.bankofbaroda.in/",
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
-    "statusNote": "Programme classification and any scholarship award are not confirmed. Check the provider's current official notice; do not assume a loan is a scholarship.",
+    "statusNote": "Not confirmed as a scholarship. Do not assume the product is free funding; verify whether it is a loan, award or other education-finance programme.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
@@ -150,7 +150,7 @@
     "slug": "canara-vidya-turant",
     "name": "Canara Bank Vidya Turant",
     "provider": "Canara Bank",
-    "providerType": "bank",
+    "providerType": "corporate",
     "educationLevels": [
       "Undergraduate"
     ],
@@ -185,7 +185,7 @@
     "slug": "indusind-para-champions",
     "name": "IndusInd Bank Para Champions Programme",
     "provider": "IndusInd Bank / GoSports Foundation",
-    "providerType": "bank",
+    "providerType": "corporate",
     "educationLevels": [
       "Undergraduate"
     ],
