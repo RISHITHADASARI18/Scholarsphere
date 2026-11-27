@@ -155,3 +155,34 @@
 .scholarship-detail-brand .school-provider-logo img{width:48px;height:48px}
 .scholarship-detail-brand h1{margin:0 0 9px}
 @media(max-width:600px){.scholarship-detail-brand{align-items:flex-start;gap:12px}.scholarship-detail-brand .school-provider-logo{width:50px;height:50px;flex-basis:50px}.scholarship-detail-brand .school-provider-logo img{width:38px;height:38px}.scholarship-detail-brand h1{font-size:34px;letter-spacing:-1.8px}}
+
+
+/* School catalogue typography: stronger hierarchy and easier scanning */
+.school-listings{font-size:15px}
+.school-dark-eyebrow{font-size:12px;font-weight:800;letter-spacing:1.8px}
+.school-listings-heading h2{font-size:clamp(2.8rem,5.3vw,4.5rem);font-weight:900;line-height:1.02}
+.school-listings-heading p{font-size:15px;font-weight:500;line-height:1.75}
+.school-verified-badge{font-size:12px;font-weight:800}
+.school-listing-filters label>span{font-size:13px;font-weight:800}
+.school-listing-filters input,.school-listing-filters select{font-size:14px;font-weight:600}
+.school-results-line{font-size:13px;font-weight:700}
+.school-listing-card{padding:25px 26px}
+.school-status{font-size:11px;font-weight:800;letter-spacing:.2px}
+.school-year{font-size:12px;font-weight:700}
+.school-listing-card h3{font-size:21px;font-weight:900;line-height:1.3}
+.school-listing-provider{font-size:13px;font-weight:650;line-height:1.5}
+.school-listing-summary{font-size:14px;font-weight:500;line-height:1.75}
+.school-listing-meta{font-size:12px;font-weight:650;line-height:1.65}
+.school-card-open{font-size:13px;font-weight:850}
+.school-catalogue-note{font-size:12px;font-weight:550;line-height:1.75}
+.school-listing-state h3{font-size:20px;font-weight:850}
+.school-listing-state p{font-size:14px;font-weight:500;line-height:1.7}
+@media(max-width:480px){
+ .school-listings-heading h2{font-size:3rem}
+ .school-listings-heading p{font-size:14px}
+ .school-listing-card h3{font-size:19px}
+ .school-listing-provider{font-size:12px}
+ .school-listing-summary{font-size:13px}
+ .school-listing-meta{font-size:11px}
+ .school-card-open{font-size:12px}
+}
