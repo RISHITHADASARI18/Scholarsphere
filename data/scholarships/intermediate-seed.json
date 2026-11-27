@@ -240,61 +240,6 @@
     "published": true
   },
   {
-    "slug": "telangana-epass-post-matric-intermediate-2026-27",
-    "name": "Telangana ePASS – Post-Matric Scholarship (Intermediate)",
-    "provider": "Government of Telangana – Welfare Departments",
-    "providerType": "government",
-    "educationLevels": [
-      "Intermediate"
-    ],
-    "grades": [
-      "Class 11",
-      "Class 12"
-    ],
-    "states": [
-      "Telangana"
-    ],
-    "categories": [
-      "Need-based",
-      "Welfare-based"
-    ],
-    "scholarshipType": "Post-matric fee reimbursement and maintenance support",
-    "summary": "Telangana ePASS post-matric support for eligible SC, ST, BC, EBC, minority and disabled welfare-category students in Intermediate courses at eligible institutions. Category, income, attendance, admission and other rules apply.",
-    "benefits": "Eligible students may receive reimbursement of eligible non-refundable tuition fees and monthly maintenance/mess support. Amounts vary by category, course group and student accommodation; check the current ePASS rate table.",
-    "eligibility": {
-      "state": "Telangana domicile / applicable state rules.",
-      "categories": [
-        "SC",
-        "ST",
-        "BC",
-        "EBC",
-        "Minority",
-        "Disabled welfare"
-      ],
-      "course": "Intermediate (Group IV) at an eligible institution.",
-      "income": "Different category-wise annual family-income ceilings apply; consult the current official eligibility page.",
-      "attendance": "Renewal requires prescribed attendance and promotion conditions."
-    },
-    "requiredDocuments": [
-      "Caste/category certificate where applicable",
-      "Income certificate",
-      "Aadhaar and SSC details",
-      "Current admission / bonafide details",
-      "Bank account details",
-      "Other documents requested by ePASS"
-    ],
-    "applicationProcess": "Use Telangana ePASS Post-Matric fresh or renewal registration for academic year 2026–27. Follow the current biometric / verification instructions and confirm your category's eligibility.",
-    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
-    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/Scholarships.do",
-    "academicYear": "2026-27",
-    "applicationStatus": "open",
-    "applicationDeadline": "2027-03-31",
-    "statusNote": "The official ePASS circular lists 2026–27 fresh and renewal registration and gives 31 March 2027 as the last date shown for fresh/renewal registrations. Recheck the live portal for extensions and category-specific instructions.",
-    "sourceLastChecked": "2026-11-27",
-    "verificationStatus": "verified",
-    "published": true
-  },
-  {
     "slug": "tata-trusts-means-grant-intermediate-2026-27",
     "name": "Tata Trusts – Means Grant Programme",
     "provider": "Tata Trusts – Individual Grants Programme",
