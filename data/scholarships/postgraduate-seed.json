@@ -208,5 +208,46 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "federal-bank-hormis-pg",
+    "name": "Federal Bank Hormis Memorial Foundation Scholarship",
+    "provider": "Federal Bank Hormis Memorial Foundation",
+    "providerType": "bank",
+    "educationLevels": [
+      "Postgraduate"
+    ],
+    "grades": [
+      "Postgraduate Year 1"
+    ],
+    "states": [
+      "Andhra Pradesh",
+      "Gujarat",
+      "Karnataka",
+      "Kerala",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The 2026–27 Federal Bank Hormis Memorial Foundation notice also includes first-year full-time MBA/PGDM students in eligible states. Confirm the current notice for course, institution and state conditions.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.federal.bank.in/documents/d/guest/federalbankhormismemorialfoundation_scholarship_announcement_2026-27",
+    "officialSourceUrl": "https://www.federal.bank.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
