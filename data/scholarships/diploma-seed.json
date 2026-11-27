@@ -20,7 +20,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "A national scholarship for girl students admitted to the first year of an AICTE-approved diploma or directly to the second year through lateral entry.",
-    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
+    "benefits": "₹50,000 per year under the 2026–27 scheme listing and current AICTE scheme guidance; confirm exact permitted use and conditions in the linked diploma guideline.",
     "eligibility": {
       "gender": "Girl students",
       "institution": "AICTE-approved institution",
@@ -37,15 +37,16 @@
     ],
     "applicationProcess": "Apply through NSP during the notified AICTE scholarship cycle.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
+    "officialSourceUrl": "https://www.aicte-india.org/sites/default/files/stdc/Pragati/AICTE%20Pragati%20Scheme%20Guidelines_Diploma.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "NSP lists the Technical Diploma scheme for 2026–27 through 30 November 2026. AICTE's scheme page links the current diploma guidelines.",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 30000,
-    "amountMax": 30000
+    "amountMin": 50000,
+    "amountMax": 50000,
+    "applicationDeadline": "2026-11-30"
   },
   {
     "slug": "aicte-saksham-diploma-2026-27",
@@ -68,7 +69,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Support for specially-abled students admitted to the first year of an AICTE-approved diploma or the second year through lateral entry.",
-    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
+    "benefits": "₹50,000 per year under the 2026–27 scheme listing and current AICTE scheme guidance; confirm exact permitted use and conditions in the linked diploma guideline.",
     "eligibility": {
       "disability": "Benchmark disability of at least 40%",
       "institution": "AICTE-approved institution",
@@ -84,15 +85,16 @@
     ],
     "applicationProcess": "Apply through NSP when the AICTE diploma scheme is open.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
+    "officialSourceUrl": "https://www.aicte-india.org/sites/default/files/stdc/AICTE%20Saksham%20Scheme%20Guidelines_Diploma.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "NSP lists the Technical Diploma scheme through 30 November 2026. Published diploma guidelines state ₹50,000/year, at least 40% disability and family income up to ₹8 lakh; reconfirm current-year terms.",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 30000,
-    "amountMax": 30000
+    "amountMin": 50000,
+    "amountMax": 50000,
+    "applicationDeadline": "2026-11-30"
   },
   {
     "slug": "aicte-swanath-diploma-2026-27",
@@ -115,11 +117,13 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Support for eligible students in AICTE-approved technical diploma courses who meet the scheme's specified family circumstances, including eligible orphans, wards of parents who died due to COVID-19, or wards of armed forces/CAPF personnel martyred in action, as defined by current rules.",
-    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
+    "benefits": "₹50,000 per year as a lump-sum scholarship for eligible technical diploma students, under the published AICTE Swanath guidelines.",
     "eligibility": {
       "institution": "AICTE-approved technical diploma institution",
       "annualFamilyIncomeMax": 800000,
-      "beneficiaryCategories": "Orphan students and other categories defined in current Swanath guidelines; verify the complete current list with AICTE."
+      "beneficiaryCategories": "Orphan students and other categories defined in current Swanath guidelines; verify the complete current list with AICTE.",
+      "applicant": "Eligible circumstances include orphanhood, parent(s) deceased due to COVID-19, wards of Armed Forces/CAPF personnel martyred in action, and additional circumstances as specified in the current AICTE guideline.",
+      "income": "Annual family income must not exceed ₹8 lakh under the published guideline."
     },
     "requiredDocuments": [
       "Relevant beneficiary-category proof",
@@ -129,15 +133,16 @@
     ],
     "applicationProcess": "Apply through NSP during the notified cycle.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
+    "officialSourceUrl": "https://www.aicte.gov.in/sites/default/files/AICTE-SWANATH.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026; verify the exact category definitions.",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 30000,
-    "amountMax": 30000
+    "amountMin": 50000,
+    "amountMax": 50000,
+    "applicationDeadline": "2026-11-30"
   },
   {
     "slug": "hdfc-parivartan-ecss-diploma-2026-27",
@@ -181,13 +186,13 @@
     "officialSourceUrl": "https://v.hdfc.bank.in/csr/initiatives/education.html",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "Official 2026–27 programme page lists ₹18,000 for Diploma/ITI/Polytechnic and a deadline of 15 December 2026.",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
     "amountMin": 18000,
     "amountMax": 18000,
-    "applicationDeadline": "2026-12-15"
+    "applicationDeadline": "2026-11-30"
   },
   {
     "slug": "post-matric-disability-diploma-2026-27",
@@ -229,7 +234,7 @@
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "applicationDeadline": "2026-11-30",
-    "statusNote": "NSP lists the post-matric disability scholarship through 30 November 2026. Confirm that the specific diploma course is covered in the current guidelines.",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
@@ -270,11 +275,12 @@
     "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
     "officialSourceUrl": "https://telanganaepass.cgg.gov.in/CoursesOffered.do",
     "academicYear": "2026-27",
-    "applicationStatus": "verify_on_provider",
-    "statusNote": "The official course list includes graduate-level diploma courses in Group II. Check the exact diploma course, approval and current application dates on ePASS.",
+    "applicationStatus": "open",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "applicationDeadline": "2026-11-30"
   },
   {
     "slug": "telangana-epass-post-matric-polytechnic-2026-27",
@@ -326,8 +332,8 @@
     "officialSourceUrl": "https://telanganaepass.cgg.gov.in/Scholarships.do",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "applicationDeadline": "2027-03-31",
-    "statusNote": "The official ePASS circular lists 2026–27 fresh and renewal registration and gives 31 March 2027 as the last date shown for fresh/renewal registrations. Confirm your course, college and category in the live portal.",
+    "applicationDeadline": "2026-11-30",
+    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
