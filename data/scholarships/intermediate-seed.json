@@ -575,5 +575,292 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "vidyadhan-intermediate",
+    "name": "Vidyadhan Scholarship – Intermediate / Class 11–12",
+    "provider": "Sarojini Damodaran Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Vidyadhan offers state-specific support for students continuing after Class 10. Eligible classes, regions and renewal rules differ by cohort; check the Foundation's current state notice.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.vidyadhan.org/",
+    "officialSourceUrl": "https://www.vidyadhan.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "swami-vivekananda-mcm-intermediate",
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+    "provider": "Government of West Bengal",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "West Bengal"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "West Bengal state merit-cum-means scholarship for eligible higher-secondary students. It is not an all-India scheme; domicile and academic conditions apply.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://svmcm.wbhed.gov.in/",
+    "officialSourceUrl": "https://svmcm.wbhed.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "dhirubhai-ambani-scholarship",
+    "name": "Dhirubhai Ambani Scholarship Programme",
+    "provider": "Reliance Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship programme for meritorious students from underprivileged backgrounds. Confirm the current selection route, board/examination coverage and eligibility directly with Reliance Foundation.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.reliancefoundation.org/what-we-do/education/reliance-foundation-scholarships",
+    "officialSourceUrl": "https://www.reliancefoundation.org/what-we-do/education/reliance-foundation-scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "indianoil-academic-sports-intermediate",
+    "name": "IndianOil Academic & Sports Scholarships",
+    "provider": "IndianOil Corporation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Academic and sports scholarship programme. Check the current IndianOil notification for class, marks, sports discipline and application conditions.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://iocl.com/",
+    "officialSourceUrl": "https://iocl.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "gail-utkarsh-intermediate",
+    "name": "GAIL Utkarsh / Merit Scholarships",
+    "provider": "GAIL (India) Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Merit-support programme name supplied for the catalogue. Confirm current class coverage and whether applications are open with GAIL.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.gailonline.com/",
+    "officialSourceUrl": "https://www.gailonline.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "ntpc-utkarsh-intermediate",
+    "name": "NTPC Utkarsh Merit Scholarship",
+    "provider": "NTPC Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Merit-support programme name supplied for the catalogue. Current eligibility, geography and application route require confirmation with NTPC.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.ntpc.co.in/",
+    "officialSourceUrl": "https://www.ntpc.co.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "mahindra-saarthi-intermediate",
+    "name": "Mahindra Saarthi Abhiyaan",
+    "provider": "Mahindra & Mahindra",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support initiative associated with daughters of commercial vehicle drivers. Confirm current class coverage and eligibility with Mahindra's official programme.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.mahindra.com/",
+    "officialSourceUrl": "https://www.mahindra.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "canara-merit-scholarship-sc-st-girls",
+    "name": "Canara Bank Merit Scholarships for SC/ST Girl Students",
+    "provider": "Canara Bank",
+    "providerType": "bank",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The supplied programme name refers to merit support for SC/ST girl students. The current official programme title, eligible classes and application route need confirmation with Canara Bank.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://canarabank.bank.in/",
+    "officialSourceUrl": "https://canarabank.bank.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Do not confuse this with Canara Vidya Turant, which is an education-loan product rather than a scholarship. Confirm the current merit-scholarship notice with Canara Bank.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
