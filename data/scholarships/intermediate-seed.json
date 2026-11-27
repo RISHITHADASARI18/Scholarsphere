@@ -70,14 +70,16 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Post-matric financial support for eligible students with benchmark disabilities continuing education after Class 10. Course, disability and income rules apply.",
-    "benefits": "Support varies by course group and includes notified maintenance, fees and allowances; see current guidelines for exact rates.",
+    "benefits": "The department lists tuition/admission support, maintenance allowance, and book/disability allowances. Check current guidelines for the applicable fee ceiling and rates.",
     "eligibility": {
-      "disability": "Benchmark disability conditions apply.",
+      "nationality": "Indian",
+      "disability": "Benchmark disability of 40% or more",
       "grades": [
         "Class 11",
         "Class 12"
       ],
-      "income": "Family-income ceiling applies; verify current guidelines."
+      "annualFamilyIncomeMax": 250000,
+      "identity": "Valid UDID/disability certificate and current NSP conditions apply."
     },
     "requiredDocuments": [
       "UDID/disability certificate",
@@ -88,7 +90,7 @@
     ],
     "applicationProcess": "Submit through NSP when applications are open and follow institute verification.",
     "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://depwd.gov.in/en/scholarship-post-matric/",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "statusNote": "NSP 2026–27 listing shows student applications till 30 November 2026; check scheme specifications for exact rates.",
@@ -117,7 +119,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Education assistance for eligible students whose parent is an eligible beedi, cine or specified mine worker. Worker-service, income and academic conditions apply.",
-    "benefits": "Amount depends on course/class and current Ministry guidelines; check the official notice.",
+    "benefits": "The Ministry reported assistance up to ₹25,000 per student per year across eligible school, college and professional courses. Course-wise rates depend on current scheme rules.",
     "eligibility": {
       "parentEmployment": "Parent must meet the eligible worker and service conditions.",
       "grades": [
@@ -135,13 +137,14 @@
     ],
     "applicationProcess": "Apply through NSP during the notified cycle.",
     "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://labour.gov.in/sites/default/files/pib2118720.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "closed",
-    "statusNote": "NSP lists the 2026–27 post-matric student window as closed on 31 October 2026.",
+    "statusNote": "NSP lists the 2026–27 post-matric application window as closed on 31 October 2026. The Ministry's 2025 release describes assistance up to ₹25,000/year; check the next cycle and course-wise rules.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "applicationDeadline": "2026-10-31"
   },
   {
     "slug": "hdfc-parivartan-ecss-intermediate-2026-27",
@@ -163,15 +166,17 @@
       "Merit-based"
     ],
     "scholarshipType": "Need-based / merit-based as notified",
-    "summary": "Corporate education assistance for school students facing financial difficulty or a family/personal crisis; selection is subject to programme criteria.",
-    "benefits": "The official programme page lists category-specific support. Confirm the current award amount and cycle before applying.",
+    "summary": "Financial support for Class 11–12 students facing financial difficulty or a personal/family crisis that puts continuation of education at risk.",
+    "benefits": "₹18,000 for eligible students in Classes 7–12 under the 2026–27 programme.",
     "eligibility": {
+      "nationality": "Indian",
       "grades": [
         "Class 11",
         "Class 12"
       ],
-      "marks": "Minimum previous-year marks and income conditions apply; verify current cycle.",
-      "nationality": "Indian students."
+      "previousClassMarksMin": 55,
+      "annualFamilyIncomeMax": 250000,
+      "preference": "Preference for applicants facing a personal/family crisis in the previous three years."
     },
     "requiredDocuments": [
       "Previous-year marksheet",
@@ -181,11 +186,55 @@
       "Crisis evidence if relevant"
     ],
     "applicationProcess": "Use the official ECSS programme application route when the current cycle is accepting applications.",
-    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://www.parivartanecss.com/index.html",
+    "officialApplicationUrl": "https://www.parivartanecss.com/index.html",
+    "officialSourceUrl": "https://v.hdfc.bank.in/csr/initiatives/education.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "Official programme page lists the 2026–27 cycle and a deadline of 15 December 2026. Confirm class-specific conditions and details before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true,
+    "applicationDeadline": "2026-12-15"
+  },
+  {
+    "slug": "telangana-epass-post-matric-intermediate-2026-27",
+    "name": "Telangana ePASS – Post-Matric Scholarship (Intermediate)",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "State post-matric support",
+    "summary": "Telangana ePASS includes Intermediate and vocational Intermediate courses under its post-matric course groups. Scheme eligibility, category rules, income limits and current application dates depend on the applicable notification.",
+    "benefits": "Fee reimbursement and/or maintenance support may apply under the relevant Telangana post-matric scheme. No single amount is stated because it varies by category and course.",
+    "eligibility": {
+      "domicile": "Telangana",
+      "courses": "Intermediate and eligible vocational Intermediate courses (Group IV)",
+      "other": "Community, income, attendance and institution conditions vary by scheme."
+    },
+    "requiredDocuments": [
+      "Telangana residence/community and income records as applicable",
+      "Current admission details",
+      "Aadhaar/bank details",
+      "Other documents specified by ePASS"
+    ],
+    "applicationProcess": "Use the official Telangana ePASS portal and select the relevant post-matric scheme. Confirm the college/course is approved and the current application window is active.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/CoursesOffered.do",
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
-    "statusNote": "Corporate programme; do not rely on previous-cycle deadlines or amounts.",
+    "statusNote": "The official course list explicitly includes Intermediate and vocational Intermediate (Group IV). Current 2026–27 application dates and category-specific benefits must be confirmed on ePASS.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
