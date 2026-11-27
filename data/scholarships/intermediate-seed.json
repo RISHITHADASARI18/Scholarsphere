@@ -293,5 +293,103 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "tata-trusts-means-grant-intermediate-2026-27",
+    "name": "Tata Trusts – Means Grant Programme",
+    "provider": "Tata Trusts – Individual Grants Programme",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based"
+    ],
+    "scholarshipType": "Means-based educational grant",
+    "summary": "Partial, need-based financial assistance for Indian residents studying in recognised schools or colleges. The grant is reimbursement-based and supports school students from Standard VIII onwards through graduation.",
+    "benefits": "Partial financial assistance for eligible education expenses on a reimbursement basis; award amount depends on the application and programme assessment.",
+    "eligibility": {
+      "nationality": "Indian resident.",
+      "grades": "Standard VIII onwards through graduation.",
+      "institution": "Recognised school or college in India.",
+      "academic": "At least pass class in the previous academic year; check the current 2026–27 guideline for exclusions.",
+      "reimbursement": "Fees should have been paid and fee receipts should be available."
+    },
+    "requiredDocuments": [
+      "Completed programme application form",
+      "Previous-year marksheet",
+      "Current-year fee receipts",
+      "Proof of admission/enrolment",
+      "Other documents listed in the current Tata Trusts guidelines"
+    ],
+    "applicationProcess": "Read the current Means Grant guidelines and submit the completed application with supporting documents using the official Tata Trusts instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.tatatrusts.org/our-work/individual-grants-programme/education-grants",
+    "officialSourceUrl": "https://tatatrusts.org/pdf/focus-area/individual-grants/means-grant-programme.pdf",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "applicationDeadline": "2027-03-31",
+    "statusNote": "The official 2026–27 guideline says applications may be submitted before 31 March 2027; the programme page states applications are being accepted online by email. Check the current instructions before sending anything.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sbi-platinum-jubilee-asha-intermediate-2026-27",
+    "name": "SBI Platinum Jubilee Asha Scholarship – Classes 11–12",
+    "provider": "SBI Foundation (CSR arm of State Bank of India)",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "A national scholarship for meritorious students from economically weaker backgrounds studying in Classes 9–12. Selection considers academic performance and family income; 50% of slots are reserved for female students.",
+    "benefits": "₹15,000 for the school-student category for the 2026–27 cycle, subject to selection and programme conditions.",
+    "amountMin": 15000,
+    "amountMax": 15000,
+    "eligibility": {
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "marks": "75% or 7.5 CGPA in the previous academic year; relaxations apply to specified categories.",
+      "annualFamilyIncomeMax": 300000,
+      "nationality": "Indian nationals"
+    },
+    "requiredDocuments": [
+      "Previous academic-year marksheet",
+      "Current admission / bonafide proof",
+      "Income proof",
+      "Government identity proof",
+      "Bank passbook",
+      "Category or disability certificate if applicable"
+    ],
+    "applicationProcess": "The 2026–27 application cycle is closed. Check the official SBI Asha portal for result updates and the next application cycle.",
+    "officialApplicationUrl": "https://www.sbiashascholarship.co.in/",
+    "officialSourceUrl": "https://sbifoundation.in/ashascholarship1",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "applicationDeadline": "2026-09-19",
+    "statusNote": "The official programme portal says applications closed on 19 September 2026. School-category shortlisting/results were still awaited on the official site at the time checked.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
