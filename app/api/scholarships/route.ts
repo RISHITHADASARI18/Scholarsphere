@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getDb } from "@/lib/db";
 import schoolSeed from "@/data/scholarships/school-seed.json";
+import intermediateSeed from "@/data/scholarships/intermediate-seed.json";
+import diplomaSeed from "@/data/scholarships/diploma-seed.json";
 
 export const dynamic = "force-dynamic";
 
@@ -9,15 +11,17 @@ const allowedLevels = new Set(["School", "Intermediate", "Diploma", "Undergradua
 export async function GET(request: NextRequest) {
   const db = getDb();
   if (!db) {
-    if ((request.nextUrl.searchParams.get("level") || "School") !== "School") {
-      return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "This education-level catalogue is being connected. School records are available while the database is provisioned." }, { status: 503 });
+    const level = request.nextUrl.searchParams.get("level") || "School";
+    const source = level === "School" ? schoolSeed : level === "Intermediate" ? intermediateSeed : level === "Diploma" ? diplomaSeed : null;
+    if (!source) {
+      return NextResponse.json({ error: "DATABASE_NOT_CONFIGURED", message: "This education-level catalogue is being connected. Verified seed catalogues are currently available for School, Intermediate and Diploma." }, { status: 503 });
     }
     const p = request.nextUrl.searchParams;
     const q = (p.get("q") || "").toLowerCase();
     const state = p.get("state") || "";
     const grade = p.get("grade") || "";
     const category = p.get("category") || "";
-    const filtered = schoolSeed.filter((item) =>
+    const filtered = source.filter((item) =>
       (!q || (item.name + " " + item.provider + " " + item.summary).toLowerCase().includes(q)) &&
       (!state || item.states.includes("All India") || item.states.includes(state)) &&
       (!grade || item.grades.includes(grade)) &&
