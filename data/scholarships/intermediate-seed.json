@@ -1662,5 +1662,169 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "needs_review",
     "published": false
+  },
+  {
+    "slug": "jsw-umeed-intermediate",
+    "name": "JSW UMEED Scholarship – Intermediate",
+    "provider": "JSW Foundation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Provider-defined education support",
+    "summary": "Education-support programme lead for students facing financial hardship; the exact active Class 11–12 award and location coverage should be confirmed with JSW Foundation.",
+    "benefits": "Award amount, fee coverage and renewal conditions depend on the current official programme notification; no amount is assumed here.",
+    "eligibility": {
+      "details": "Current programme-specific financial need, school/class, geography and academic requirements must be checked in the active call."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Income proof if required",
+      "Identity and bank details if required"
+    ],
+    "applicationProcess": "Read the current programme notice and follow the provider's official application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.jswfoundation.in/",
+    "officialSourceUrl": "https://www.jswfoundation.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Current Class 11–12 coverage, award amount and application window are not confirmed; treat as a lead until an official call is found.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "alkem-shri-samprada-singh-intermediate",
+    "name": "Alkem Foundation Shri Samprada Singh Scholarship – Intermediate Eligibility to Confirm",
+    "provider": "Alkem Foundation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Provider-defined education support",
+    "summary": "Scholarship name supplied for the catalogue; a current official Intermediate-level programme and eligibility details need direct confirmation.",
+    "benefits": "Award amount, fee coverage and renewal conditions depend on the current official programme notification; no amount is assumed here.",
+    "eligibility": {
+      "details": "Class coverage, eligible locations, marks, income criteria and selection process are not confirmed for the current cycle."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Income proof if required",
+      "Identity and bank details if required"
+    ],
+    "applicationProcess": "Read the current programme notice and follow the provider's official application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.alkemfoundation.org/",
+    "officialSourceUrl": "https://www.alkemfoundation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Do not assume Class 11–12 eligibility or an active application cycle without a current official notification.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "bc-jindal-vidya-intermediate",
+    "name": "BC Jindal Vidya Scholarship – Intermediate Eligibility to Confirm",
+    "provider": "BC Jindal Foundation / Jindal Group",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Provider-defined education support",
+    "summary": "Education-support programme lead included from the requested list. Current Class 11–12 scholarship details require confirmation.",
+    "benefits": "Award amount, fee coverage and renewal conditions depend on the current official programme notification; no amount is assumed here.",
+    "eligibility": {
+      "details": "Current eligible classes, geography, income/merit conditions and application route are not confirmed."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Income proof if required",
+      "Identity and bank details if required"
+    ],
+    "applicationProcess": "Read the current programme notice and follow the provider's official application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bcjindalgroup.com/",
+    "officialSourceUrl": "https://www.bcjindalgroup.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm the exact programme title and current Intermediate eligibility with the official provider.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "lic-golden-jubilee-intermediate",
+    "name": "LIC Golden Jubilee Scholarship – Class 11–12 Eligibility to Confirm",
+    "provider": "LIC Golden Jubilee Foundation / Life Insurance Corporation of India",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Provider-defined education support",
+    "summary": "Education scholarship programme for eligible students; the current notification must be checked to establish whether Class 11–12 students are included in the applicable category.",
+    "benefits": "Award amount, fee coverage and renewal conditions depend on the current official programme notification; no amount is assumed here.",
+    "eligibility": {
+      "details": "Eligibility is defined by the current LIC notification and may focus on students entering higher education after Class 12; Intermediate-stage coverage must not be assumed."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Income proof if required",
+      "Identity and bank details if required"
+    ],
+    "applicationProcess": "Read the current programme notice and follow the provider's official application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://licindia.in/",
+    "officialSourceUrl": "https://licindia.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Listed for awareness. Confirm whether the active cycle accepts current Class 11–12 students or only students entering higher education.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
   }
 ]
