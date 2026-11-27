@@ -2,6 +2,8 @@ import Link from "next/link";
 import { ArrowLeft, ArrowUpRight, CalendarDays, CheckCircle2, FileText, GraduationCap, ShieldCheck } from "lucide-react";
 import { getDb } from "@/lib/db";
 import schoolSeed from "@/data/scholarships/school-seed.json";
+import intermediateSeed from "@/data/scholarships/intermediate-seed.json";
+import diplomaSeed from "@/data/scholarships/diploma-seed.json";
 
 type Props = { params: Promise<{ slug: string }> };
 const statusLabels: Record<string,string> = {
@@ -37,7 +39,7 @@ export default async function ScholarshipDetailPage({params}:Props) {
       console.error("Scholarship detail lookup failed",error);
     }
   }
-  if(!record) record=schoolSeed.find(item=>item.slug===slug) as unknown as Record<string,any> | undefined;
+  if(!record) record=([...schoolSeed,...intermediateSeed,...diplomaSeed]).find(item=>item.slug===slug) as unknown as Record<string,any> | undefined;
   if(!record) return <main className="detail-page"><header className="directory-nav"><Link className="brand" href="/"><span className="brand-mark">✳</span><span>scholar<span className="brand-accent">sphere</span><i>.</i></span></Link><Link href="/scholarships" className="directory-back"><ArrowLeft size={16}/> Directory</Link></header><section className="detail-empty"><div className="empty-icon"><GraduationCap size={27}/></div><div className="eyebrow dark-eyebrow">SCHOLARSHIP INFORMATION</div><h1>Details are not<br/><em>published yet.</em></h1><p>We couldn’t find a published, verified record for “{slug.replaceAll("-"," ")}”. We do not display guessed eligibility rules, amounts or deadlines.</p><Link className="directory-cta" href="/school">Explore school scholarships</Link></section></main>;
   const providerDomain = /CBSE/i.test(record.provider) ? "cbse.gov.in" : /HDFC/i.test(record.provider) ? "hdfcbank.com" : /Tribal Affairs/i.test(record.provider) ? "tribal.nic.in" : /Social Justice/i.test(record.provider) ? "socialjustice.gov.in" : /Disabilities/i.test(record.provider) ? "depwd.gov.in" : /Labour/i.test(record.provider) ? "labour.gov.in" : /Telangana/i.test(record.provider) ? "telangana.gov.in" : /Education/i.test(record.provider) ? "education.gov.in" : new URL(record.officialSourceUrl).hostname;
   const providerLogo = `https://www.google.com/s2/favicons?domain=${providerDomain}&sz=128`;
