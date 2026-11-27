@@ -240,49 +240,6 @@
     "published": true
   },
   {
-    "slug": "telangana-epass-post-matric-diploma-2026-27",
-    "name": "Telangana ePASS – Post-Matric Scholarship (Eligible Diploma Courses)",
-    "provider": "Government of Telangana – ePASS",
-    "providerType": "government",
-    "educationLevels": [
-      "Diploma"
-    ],
-    "grades": [
-      "Diploma"
-    ],
-    "states": [
-      "Telangana"
-    ],
-    "categories": [
-      "Need-based",
-      "Targeted support"
-    ],
-    "scholarshipType": "State post-matric support",
-    "summary": "Telangana ePASS supports eligible post-matric courses approved by the relevant board or university. Course groups include graduate-level diploma courses; eligibility depends on the scheme and recognised institution.",
-    "benefits": "Fee reimbursement and/or maintenance support may apply under the relevant Telangana post-matric scheme. No single amount is stated because it varies by course group and category.",
-    "eligibility": {
-      "domicile": "Telangana",
-      "course": "Post-matric courses approved by the concerned University/Board with duration of one year or more; graduate-level diploma courses are listed in Group II.",
-      "other": "Community, income, attendance and institution conditions vary by scheme."
-    },
-    "requiredDocuments": [
-      "Telangana residence/community and income records as applicable",
-      "Current admission details",
-      "Aadhaar/bank details",
-      "Other documents specified by ePASS"
-    ],
-    "applicationProcess": "Use the official Telangana ePASS portal and check the course group and applicable post-matric scheme before applying.",
-    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
-    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/CoursesOffered.do",
-    "academicYear": "2026-27",
-    "applicationStatus": "open",
-    "statusNote": "NSP lists the 2026–27 student application window through 30 November 2026. Verification dates are later; confirm the current scheme notice and your institution's eligibility.",
-    "sourceLastChecked": "2026-11-27",
-    "verificationStatus": "verified",
-    "published": true,
-    "applicationDeadline": "2026-11-30"
-  },
-  {
     "slug": "telangana-epass-post-matric-polytechnic-2026-27",
     "name": "Telangana ePASS – Post-Matric Scholarship (Polytechnic / Diploma)",
     "provider": "Government of Telangana – Welfare Departments",
