@@ -1,4 +1,5 @@
 import Link from "next/link";
+import LevelScholarshipListings from "@/components/level-scholarship-listings";
 import { ArrowLeft, ArrowRight, BookOpen, GraduationCap, Landmark, HeartHandshake, Search, ShieldCheck, Wallet, Award, Users } from "lucide-react";
 
 const supportTypes = [
@@ -48,7 +49,8 @@ export default function IntermediateScholarshipsPage() {
         </div>
       </section>
 
-      <section className="school-content">
+      <LevelScholarshipListings level="Intermediate" />
+  <section className="school-content">
         <div className="school-section-heading">
           <div><div className="eyebrow dark-eyebrow">SUPPORT FOR THE NEXT STEP</div><h2>More room to<br/><em>keep learning.</em></h2></div>
           <p>Intermediate-level support may come from government departments, foundations, companies and educational institutions. Eligibility, benefits and deadlines vary by programme.</p>
