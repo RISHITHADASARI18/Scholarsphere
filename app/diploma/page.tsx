@@ -1,4 +1,5 @@
 import Link from "next/link";
+import LevelScholarshipListings from "@/components/level-scholarship-listings";
 import { ArrowLeft, ArrowRight, GraduationCap, Building2, Landmark, HeartHandshake, Search, ShieldCheck, Wallet, Award, Wrench, Factory, BookOpen } from "lucide-react";
 
 const support = [
@@ -17,6 +18,7 @@ export default function DiplomaScholarshipsPage() {
    <form className="school-search" action="/scholarships" method="get"><Search size={20}/><input type="search" name="q" placeholder="Search diploma scholarships, branch or company…" aria-label="Search diploma scholarships"/><input type="hidden" name="level" value="Diploma"/><button type="submit">Search <ArrowRight size={16}/></button></form><div className="school-search-note">Try “polytechnic scholarship”, “diploma mechanical engineering” or a company/provider name.</div></div>
    <div className="school-hero-aside"><div className="school-aside-icon"><Wrench size={35}/></div><span>TECHNICAL & VOCATIONAL LEARNING</span><strong>Turn practical<br/>learning into progress.</strong><p>Find support that recognises both your education and your skills.</p><div className="school-aside-rule"></div><small>LEARN · BUILD · GROW</small></div>
   </section>
+  <LevelScholarshipListings level="Diploma" />
   <section className="school-content"><div className="school-section-heading"><div><div className="eyebrow dark-eyebrow">SUPPORT FOR DIPLOMA STUDENTS</div><h2>More routes<br/><em>to get supported.</em></h2></div><p>Opportunities can differ by diploma branch, institution, year of study and provider. Some companies also fund education through scholarship or CSR initiatives.</p></div>
    <div className="school-support-grid">{support.map(({icon:Icon,title,text},i)=><article className="school-support-card" key={title}><span className="school-card-number">0{i+1}</span><span className="school-support-icon"><Icon size={23}/></span><h3>{title}</h3><p>{text}</p></article>)}</div>
   </section>
