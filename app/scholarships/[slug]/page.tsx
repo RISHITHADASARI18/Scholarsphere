@@ -4,6 +4,8 @@ import { getDb } from "@/lib/db";
 import schoolSeed from "@/data/scholarships/school-seed.json";
 import intermediateSeed from "@/data/scholarships/intermediate-seed.json";
 import diplomaSeed from "@/data/scholarships/diploma-seed.json";
+import intermediateSeed from "@/data/scholarships/intermediate-seed.json";
+import diplomaSeed from "@/data/scholarships/diploma-seed.json";
 
 type Props = { params: Promise<{ slug: string }> };
 const statusLabels: Record<string,string> = {
