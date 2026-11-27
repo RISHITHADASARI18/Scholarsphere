@@ -20,7 +20,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "A national scholarship for girl students admitted to the first year of an AICTE-approved diploma or directly to the second year through lateral entry.",
-    "benefits": "₹50,000 per year, subject to scheme rules and selection.",
+    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
     "eligibility": {
       "gender": "Girl students",
       "institution": "AICTE-approved institution",
@@ -37,15 +37,15 @@
     ],
     "applicationProcess": "Apply through NSP during the notified AICTE scholarship cycle.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "statusNote": "NSP lists the Technical Diploma scheme for 2026–27 through 30 November 2026. AICTE's scheme page links the current diploma guidelines.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 50000,
-    "amountMax": 50000
+    "amountMin": 30000,
+    "amountMax": 30000
   },
   {
     "slug": "aicte-saksham-diploma-2026-27",
@@ -68,7 +68,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Support for specially-abled students admitted to the first year of an AICTE-approved diploma or the second year through lateral entry.",
-    "benefits": "₹50,000 per year under the published diploma guidelines, subject to current scheme rules and selection.",
+    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
     "eligibility": {
       "disability": "Benchmark disability of at least 40%",
       "institution": "AICTE-approved institution",
@@ -84,15 +84,15 @@
     ],
     "applicationProcess": "Apply through NSP when the AICTE diploma scheme is open.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "statusNote": "NSP lists the Technical Diploma scheme through 30 November 2026. Published diploma guidelines state ₹50,000/year, at least 40% disability and family income up to ₹8 lakh; reconfirm current-year terms.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 50000,
-    "amountMax": 50000
+    "amountMin": 30000,
+    "amountMax": 30000
   },
   {
     "slug": "aicte-swanath-diploma-2026-27",
@@ -115,7 +115,7 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Support for eligible students in AICTE-approved technical diploma courses who meet the scheme's specified family circumstances, including eligible orphans, wards of parents who died due to COVID-19, or wards of armed forces/CAPF personnel martyred in action, as defined by current rules.",
-    "benefits": "₹50,000 per year under published scheme information, subject to eligibility, selection and renewal rules.",
+    "benefits": "Up to ₹30,000 per year towards tuition fee (or actual fee, whichever is lower) under published AICTE guidelines; additional contingency support may apply to eligible hostel students. Confirm current rules.",
     "eligibility": {
       "institution": "AICTE-approved technical diploma institution",
       "annualFamilyIncomeMax": 800000,
@@ -129,15 +129,15 @@
     ],
     "applicationProcess": "Apply through NSP during the notified cycle.",
     "officialApplicationUrl": "https://scholarships.gov.in/",
-    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
+    "officialSourceUrl": "https://aicte-qa.aicte-india.org/sites/default/files/ps_faq.pdf",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026; verify the exact category definitions.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true,
-    "amountMin": 50000,
-    "amountMax": 50000
+    "amountMin": 30000,
+    "amountMax": 30000
   },
   {
     "slug": "hdfc-parivartan-ecss-diploma-2026-27",
@@ -272,6 +272,62 @@
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
     "statusNote": "The official course list includes graduate-level diploma courses in Group II. Check the exact diploma course, approval and current application dates on ePASS.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "telangana-epass-post-matric-polytechnic-2026-27",
+    "name": "Telangana ePASS – Post-Matric Scholarship (Polytechnic / Diploma)",
+    "provider": "Government of Telangana – Welfare Departments",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma Year 1",
+      "Diploma Year 2",
+      "Diploma Year 3"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Welfare-based"
+    ],
+    "scholarshipType": "Post-matric fee reimbursement and maintenance support",
+    "summary": "Telangana ePASS post-matric support includes eligible Polytechnic courses (listed in Group II) for students covered by state welfare categories. Institution recognition, course, income, admission and attendance rules apply.",
+    "benefits": "Eligible students may receive reimbursement of eligible tuition fees and monthly maintenance/mess support. Polytechnic is listed under Group II; the official rate table distinguishes college-attached hostel and day-scholar rates.",
+    "eligibility": {
+      "state": "Telangana domicile / applicable state rules.",
+      "categories": [
+        "SC",
+        "ST",
+        "BC",
+        "EBC",
+        "Minority",
+        "Disabled welfare"
+      ],
+      "course": "Eligible Polytechnic / diploma course at a recognised institution; check the official course and college lists.",
+      "income": "Different category-wise annual family-income ceilings apply.",
+      "attendance": "Renewal requires prescribed attendance and promotion conditions."
+    },
+    "requiredDocuments": [
+      "Caste/category certificate where applicable",
+      "Income certificate",
+      "Aadhaar and SSC details",
+      "Current admission / bonafide details",
+      "Bank account details",
+      "Other documents requested by ePASS"
+    ],
+    "applicationProcess": "Use Telangana ePASS Post-Matric fresh or renewal registration for academic year 2026–27. Follow the current biometric / verification instructions and confirm your category's eligibility.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/Scholarships.do",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "applicationDeadline": "2027-03-31",
+    "statusNote": "The official ePASS circular lists 2026–27 fresh and renewal registration and gives 31 March 2027 as the last date shown for fresh/renewal registrations. Confirm your course, college and category in the live portal.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
