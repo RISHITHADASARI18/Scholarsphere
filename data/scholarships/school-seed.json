@@ -395,5 +395,105 @@
     "sourceLastChecked": "2026-11-22",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "cbse-single-girl-child-merit-scholarship",
+    "name": "CBSE Merit Scholarship Scheme for Single Girl Child",
+    "provider": "Central Board of Secondary Education (CBSE)",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Merit-based",
+    "summary": "A CBSE scheme supporting eligible single girl children who continue their studies in Classes 11 and 12 at a CBSE-affiliated school after completing Class 10.",
+    "benefits": "The CBSE scheme guidelines describe scholarship support for up to two years. Confirm the current amount and cycle-specific terms in the latest CBSE notice.",
+    "eligibility": {
+      "applicant": "Single girl child who is the only child of her parents",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "school": "Must continue in a CBSE-affiliated school",
+      "academicPerformance": "The latest published guideline should be checked for the applicable Class 10 marks requirement",
+      "income": "Family income and tuition-fee limits apply; confirm the current guideline"
+    },
+    "requiredDocuments": [
+      "Class 10 marksheet",
+      "School admission and fee details",
+      "Single girl child affidavit/declaration as specified by CBSE",
+      "Documents requested in the current CBSE application notice"
+    ],
+    "applicationProcess": "Check the CBSE scholarship page for the current fresh or renewal application notice. Apply only through the official CBSE application route when the cycle is announced.",
+    "officialApplicationUrl": "https://www.cbse.gov.in/cbsenew/scholar.html",
+    "officialSourceUrl": "https://www.cbse.gov.in/cbsenew/scholar.html",
+    "academicYear": "Latest published notice: 2025",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The official CBSE scholarship page currently surfaces the 2025 application notice. A 2026–27 fresh application window was not confirmed in the source checked on 27 November 2026. Check CBSE for the next notice.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "telangana-epass-pre-matric-scholarship-services",
+    "name": "Telangana ePASS – Pre-Matric Scholarship Services",
+    "provider": "Government of Telangana – Social Welfare Department",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Welfare-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Welfare-based",
+    "summary": "A state portal entry point for pre-matric scholarship services administered through Telangana ePASS. Available schemes and qualifying student groups depend on the current department notification.",
+    "benefits": "Benefits vary by the specific pre-matric scheme and the student's eligible category. Check the current Telangana ePASS notice for exact support.",
+    "eligibility": {
+      "domicile": "Telangana",
+      "educationLevel": "Pre-matric institutions up to Class 10",
+      "eligibleGroups": "Scheme-specific; confirm the current notice on Telangana ePASS",
+      "selection": "Subject to the applicable scheme rules and department verification"
+    },
+    "requiredDocuments": [
+      "School enrolment details",
+      "Income and category certificates where applicable",
+      "Identity and bank details requested by the relevant scheme"
+    ],
+    "applicationProcess": "Open the official Telangana ePASS portal, choose Pre-Matric Scholarship Services and follow the instructions for the applicable scheme. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "This is an official portal entry point rather than one single scholarship award. Confirm the active scheme, eligible group, benefit and dates on Telangana ePASS before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
