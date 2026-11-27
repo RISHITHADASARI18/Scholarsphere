@@ -27,6 +27,7 @@ export default function PostgraduatePage() {
       </div>
       <div className="school-hero-aside"><div className="school-aside-icon"><BookOpen size={35}/></div><span>POSTGRADUATE STUDY</span><strong>Build on<br/>what you know.</strong><p>Discover support for deeper learning, specialisation and your next qualification.</p><div className="school-aside-rule"></div><small>LEARN · SPECIALISE · GROW</small></div>
     </section>
+    <LevelScholarshipListings level="Postgraduate" />
     <section className="school-content">
       <div className="school-section-heading"><div><div className="eyebrow dark-eyebrow">FUNDING FOR YOUR NEXT DEGREE</div><h2>Make space for<br/><em>what’s next.</em></h2></div><p>Postgraduate funding can come from government programmes, universities, research institutions, companies and independent foundations. Each opportunity has its own rules.</p></div>
       <div className="school-support-grid">{supportTypes.map(({icon:Icon,title,text},i)=><article className="school-support-card" key={title}><span className="school-card-number">0{i+1}</span><span className="school-support-icon"><Icon size={23}/></span><h3>{title}</h3><p>{text}</p></article>)}</div>
