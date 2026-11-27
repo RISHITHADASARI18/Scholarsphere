@@ -1,0 +1,193 @@
+[
+  {
+    "slug": "pm-yasasvi-top-class-college-intermediate-2026-27",
+    "name": "PM YASASVI – Top Class Education in Schools (Classes 11–12)",
+    "provider": "Department of Social Justice & Empowerment, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Central support for eligible OBC, EBC and DNT students in notified Top Class Schools; Class 11–12 students should verify the school list and available slots.",
+    "benefits": "Up to ₹1,25,000 per year for Classes 11–12 under the scheme guidelines; eligible fee components and limits apply.",
+    "eligibility": {
+      "categories": [
+        "OBC",
+        "EBC",
+        "DNT"
+      ],
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "incomeLimit": "Family income ceiling and school/slot conditions apply; check current guidelines."
+    },
+    "requiredDocuments": [
+      "Category certificate",
+      "Income certificate",
+      "Previous-class marksheet",
+      "School admission details"
+    ],
+    "applicationProcess": "Apply through NSP when the relevant fresh/renewal window is open.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/public/schemeGuidelines/3061_G.pdf",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "NSP 2026–27 listing shows application till 30 November 2026. Confirm fresh/renewal eligibility and state/class slots on NSP.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "post-matric-disability-scholarship-2026-27",
+    "name": "Post-Matric Scholarship for Students with Disabilities",
+    "provider": "Department of Empowerment of Persons with Disabilities, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Post-matric financial support for eligible students with benchmark disabilities continuing education after Class 10. Course, disability and income rules apply.",
+    "benefits": "Support varies by course group and includes notified maintenance, fees and allowances; see current guidelines for exact rates.",
+    "eligibility": {
+      "disability": "Benchmark disability conditions apply.",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "income": "Family-income ceiling applies; verify current guidelines."
+    },
+    "requiredDocuments": [
+      "UDID/disability certificate",
+      "Income certificate",
+      "Class 10 marksheet",
+      "Current admission proof",
+      "Bank details"
+    ],
+    "applicationProcess": "Submit through NSP when applications are open and follow institute verification.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "NSP 2026–27 listing shows student applications till 30 November 2026; check scheme specifications for exact rates.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "beedi-workers-post-matric-2026-27",
+    "name": "Education Assistance to Wards of Beedi, Cine and Mine Workers – Post-Matric",
+    "provider": "Ministry of Labour & Employment, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Education assistance for eligible students whose parent is an eligible beedi, cine or specified mine worker. Worker-service, income and academic conditions apply.",
+    "benefits": "Amount depends on course/class and current Ministry guidelines; check the official notice.",
+    "eligibility": {
+      "parentEmployment": "Parent must meet the eligible worker and service conditions.",
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "income": "Worker-family income conditions apply."
+    },
+    "requiredDocuments": [
+      "Worker identity / employment proof",
+      "Income proof",
+      "Previous marksheet",
+      "Admission proof",
+      "Bank details"
+    ],
+    "applicationProcess": "Apply through NSP during the notified cycle.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "NSP lists the 2026–27 post-matric student window as closed on 31 October 2026.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "hdfc-parivartan-ecss-intermediate-2026-27",
+    "name": "HDFC Bank Parivartan ECSS – Class 11–12",
+    "provider": "HDFC Bank Parivartan (programme administrator details on official site)",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Need-based / merit-based as notified",
+    "summary": "Corporate education assistance for school students facing financial difficulty or a family/personal crisis; selection is subject to programme criteria.",
+    "benefits": "The official programme page lists category-specific support. Confirm the current award amount and cycle before applying.",
+    "eligibility": {
+      "grades": [
+        "Class 11",
+        "Class 12"
+      ],
+      "marks": "Minimum previous-year marks and income conditions apply; verify current cycle.",
+      "nationality": "Indian students."
+    },
+    "requiredDocuments": [
+      "Previous-year marksheet",
+      "Current admission proof",
+      "Income proof",
+      "Identity and bank details",
+      "Crisis evidence if relevant"
+    ],
+    "applicationProcess": "Use the official ECSS programme application route when the current cycle is accepting applications.",
+    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialSourceUrl": "https://www.parivartanecss.com/index.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Corporate programme; do not rely on previous-cycle deadlines or amounts.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  }
+]
