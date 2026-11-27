@@ -27,6 +27,7 @@ export default function ResearchPage() {
       </div>
       <div className="school-hero-aside"><div className="school-aside-icon"><Microscope size={35}/></div><span>RESEARCH &amp; FELLOWSHIPS</span><strong>Turn questions<br/>into knowledge.</strong><p>Find information about support for investigation, innovation and advanced study.</p><div className="school-aside-rule"></div><small>QUESTION · INVESTIGATE · DISCOVER</small></div>
     </section>
+    <LevelScholarshipListings level="Research" />
     <section className="school-content">
       <div className="school-section-heading"><div><div className="eyebrow dark-eyebrow">FUNDING FOR RESEARCH</div><h2>Back the work<br/><em>that matters.</em></h2></div><p>Research support may be offered by government agencies, universities, research centres, foundations and international academic programmes.</p></div>
       <div className="school-support-grid">{supportTypes.map(({icon:Icon,title,text},i)=><article className="school-support-card" key={title}><span className="school-card-number">0{i+1}</span><span className="school-support-icon"><Icon size={23}/></span><h3>{title}</h3><p>{text}</p></article>)}</div>
