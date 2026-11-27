@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { ArrowUpRight, MapPin, RefreshCw, Search, ShieldCheck, Sparkles } from "lucide-react";
 
-type Level = "Intermediate" | "Diploma";
+type Level = "Intermediate" | "Diploma" | "Undergraduate" | "Postgraduate" | "Research";
 type Scholarship = { id?:string; slug:string; name:string; provider:string; summary:string; benefits?:string|null; grades:string[]; states:string[]; categories:string[]; applicationStatus:string; applicationDeadline?:string|null; statusNote?:string|null; officialApplicationUrl?:string|null; officialSourceUrl:string; academicYear:string; sourceLastChecked?:string; sourceLastCheckedAt?:string; };
 const allStates=["Andhra Pradesh","Arunachal Pradesh","Assam","Bihar","Chhattisgarh","Goa","Gujarat","Haryana","Himachal Pradesh","Jharkhand","Karnataka","Kerala","Madhya Pradesh","Maharashtra","Manipur","Meghalaya","Mizoram","Nagaland","Odisha","Punjab","Rajasthan","Sikkim","Tamil Nadu","Telangana","Tripura","Uttar Pradesh","Uttarakhand","West Bengal","Andaman and Nicobar Islands","Chandigarh","Dadra and Nagar Haveli and Daman and Diu","Delhi","Jammu and Kashmir","Ladakh","Lakshadweep","Puducherry"];
 const labels:Record<string,string>={open:"Applications open",opening_soon:"Opening soon",closed:"Application closed",check_state_portal:"Check state portal",verify_on_provider:"Confirm with provider"};
@@ -13,7 +13,7 @@ export default function LevelScholarshipListings({level}:{level:Level}) {
  const [items,setItems]=useState<Scholarship[]>([]),[loading,setLoading]=useState(true),[error,setError]=useState(""),[q,setQ]=useState(""),[state,setState]=useState(""),[grade,setGrade]=useState("");
  const query=useMemo(()=>new URLSearchParams({level,...(q?{q}:{}),...(state?{state}:{}),...(grade?{grade}:{})}),[level,q,state,grade]);
  useEffect(()=>{let active=true;setLoading(true);setError("");fetch("/api/scholarships?"+query.toString(),{cache:"no-store"}).then(async r=>{const d=await r.json();if(!r.ok)throw new Error(d.message||"Unable to load records.");return d}).then(d=>{if(active)setItems(d.scholarships||[])}).catch(e=>{if(active)setError(e.message||"Could not load records.")}).finally(()=>{if(active)setLoading(false)});return()=>{active=false}},[query]);
- const grades=level==="Intermediate"?["Class 11","Class 12"]:["Diploma Year 1","Diploma Year 2","Diploma Year 3","Diploma Lateral Entry"];
+ const grades=level==="Intermediate"?["Class 11","Class 12"]:level==="Diploma"?["Diploma Year 1","Diploma Year 2","Diploma Year 3","Diploma Lateral Entry"]:level==="Undergraduate"?["Undergraduate Year 1","Undergraduate Year 2","Undergraduate Year 3","Undergraduate Year 4"]:level==="Postgraduate"?["Postgraduate Year 1","Postgraduate Year 2"]:["Research / PhD"];
  return <section className="school-listings" id={level.toLowerCase()+"-scholarships"}>
   <div className="eyebrow school-dark-eyebrow">RESEARCHED OPPORTUNITIES · {level.toUpperCase()}</div>
   <div className="school-listings-heading"><div><h2>Explore verified<br/><em>{level.toLowerCase()} support.</em></h2><p>Browse government, state, corporate and foundation opportunities. Open any card for eligibility, benefits and official application instructions.</p></div><span className="school-verified-badge"><ShieldCheck size={16}/> Official sources checked</span></div>
