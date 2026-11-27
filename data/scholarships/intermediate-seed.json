@@ -1826,5 +1826,89 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "needs_review",
     "published": false
+  },
+  {
+    "slug": "indusind-para-champions-intermediate",
+    "name": "IndusInd Bank Para Champions Programme – Student Eligibility to Confirm",
+    "provider": "IndusInd Bank",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Provider-defined support",
+    "summary": "Support programme for para-athletes; included for awareness because student-athletes may be interested, but it is not confirmed as a general Class 11–12 scholarship.",
+    "benefits": "Award value and support components depend on the current official programme notice; no amount is assumed.",
+    "eligibility": {
+      "details": "Para-athlete eligibility, sport classification, performance level, age and education status are defined by the programme; current Intermediate eligibility must be confirmed."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Identity proof",
+      "Income proof if required",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the current official programme notice and follow its application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.indusind.com/",
+    "officialSourceUrl": "https://www.indusind.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm the active programme cycle and whether it accepts school/Intermediate applicants. Do not present it as a general academic scholarship.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "bajaj-finserv-scholarship-intermediate",
+    "name": "Bajaj Finserv Scholarship – Intermediate Eligibility to Confirm",
+    "provider": "Bajaj Finserv / Bajaj Finserv CSR",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "Provider-defined support",
+    "summary": "Education-support programme lead included from the requested catalogue. The exact current Class 11–12 scholarship track and its eligibility require confirmation.",
+    "benefits": "Award value and support components depend on the current official programme notice; no amount is assumed.",
+    "eligibility": {
+      "details": "Current programme title, class coverage, location, marks and financial criteria are not confirmed for the 2026–27 cycle."
+    },
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission proof",
+      "Identity proof",
+      "Income proof if required",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the current official programme notice and follow its application instructions. ScholarSphere does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bajajfinserv.in/",
+    "officialSourceUrl": "https://www.bajajfinserv.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Verify that an active Bajaj Finserv scholarship specifically accepts Class 11–12 students before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
   }
 ]
