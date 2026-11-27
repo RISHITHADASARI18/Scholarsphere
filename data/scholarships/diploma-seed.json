@@ -19,12 +19,14 @@
       "Merit-based"
     ],
     "scholarshipType": "Need-based / merit-based as notified",
-    "summary": "Scholarship for eligible girl students admitted to an AICTE-approved technical diploma programme. Seat, family-income and admission conditions apply.",
-    "benefits": "Up to ₹50,000 per year under published scheme guidelines; verify current cycle and permitted use.",
+    "summary": "A national scholarship for girl students admitted to the first year of an AICTE-approved diploma or directly to the second year through lateral entry.",
+    "benefits": "₹50,000 per year, subject to scheme rules and selection.",
     "eligibility": {
-      "applicant": "Girl students meeting the current AICTE scheme conditions.",
-      "institution": "AICTE-approved technical diploma institution.",
-      "income": "Family income ceiling applies."
+      "gender": "Girl students",
+      "institution": "AICTE-approved institution",
+      "admission": "First-year diploma or second-year lateral entry",
+      "annualFamilyIncomeMax": 800000,
+      "familyLimit": "Maximum two girls per family; current scheme conditions apply."
     },
     "requiredDocuments": [
       "Admission proof",
@@ -34,14 +36,16 @@
       "Other documents requested by NSP"
     ],
     "applicationProcess": "Apply through NSP during the notified AICTE scholarship cycle.",
-    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026. Confirm current conditions in the official specifications.",
+    "statusNote": "NSP lists the Technical Diploma scheme for 2026–27 through 30 November 2026. AICTE's scheme page links the current diploma guidelines.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "amountMin": 50000,
+    "amountMax": 50000
   },
   {
     "slug": "aicte-saksham-diploma-2026-27",
@@ -63,12 +67,13 @@
       "Merit-based"
     ],
     "scholarshipType": "Need-based / merit-based as notified",
-    "summary": "Support for eligible specially-abled students admitted to an AICTE-approved technical diploma programme.",
-    "benefits": "Up to ₹50,000 per year under published scheme guidelines; check current specifications and allowances.",
+    "summary": "Support for specially-abled students admitted to the first year of an AICTE-approved diploma or the second year through lateral entry.",
+    "benefits": "₹50,000 per year under the published diploma guidelines, subject to current scheme rules and selection.",
     "eligibility": {
-      "applicant": "Students meeting the scheme's benchmark-disability requirements.",
-      "institution": "AICTE-approved technical diploma institution.",
-      "income": "Family income ceiling applies."
+      "disability": "Benchmark disability of at least 40%",
+      "institution": "AICTE-approved institution",
+      "admission": "First-year diploma or second-year lateral entry",
+      "annualFamilyIncomeMax": 800000
     },
     "requiredDocuments": [
       "Disability certificate / UDID",
@@ -78,14 +83,16 @@
       "Bank details"
     ],
     "applicationProcess": "Apply through NSP when the AICTE diploma scheme is open.",
-    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
     "academicYear": "2026-27",
     "applicationStatus": "open",
-    "statusNote": "NSP 2026–27 listing shows applications through 30 November 2026; check the scheme specifications for disability and institution rules.",
+    "statusNote": "NSP lists the Technical Diploma scheme through 30 November 2026. Published diploma guidelines state ₹50,000/year, at least 40% disability and family income up to ₹8 lakh; reconfirm current-year terms.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "amountMin": 50000,
+    "amountMax": 50000
   },
   {
     "slug": "aicte-swanath-diploma-2026-27",
@@ -108,11 +115,11 @@
     ],
     "scholarshipType": "Need-based / merit-based as notified",
     "summary": "Support for eligible students in AICTE-approved technical diploma courses who meet the scheme's specified family circumstances, including eligible orphans, wards of parents who died due to COVID-19, or wards of armed forces/CAPF personnel martyred in action, as defined by current rules.",
-    "benefits": "Up to ₹50,000 per year under published scheme guidelines; verify current eligibility and amount.",
+    "benefits": "₹50,000 per year under published scheme information, subject to eligibility, selection and renewal rules.",
     "eligibility": {
-      "institution": "AICTE-approved technical diploma institution.",
-      "applicant": "Must fall within one of the scheme's defined beneficiary categories.",
-      "income": "Check current scheme notice."
+      "institution": "AICTE-approved technical diploma institution",
+      "annualFamilyIncomeMax": 800000,
+      "beneficiaryCategories": "Orphan students and other categories defined in current Swanath guidelines; verify the complete current list with AICTE."
     },
     "requiredDocuments": [
       "Relevant beneficiary-category proof",
@@ -121,19 +128,21 @@
       "Previous marksheet"
     ],
     "applicationProcess": "Apply through NSP during the notified cycle.",
-    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://scholarships.gov.in/All-Scholarships",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.aicte-india.org/schemes/students-development-schemes",
     "academicYear": "2026-27",
     "applicationStatus": "open",
     "statusNote": "NSP 2026–27 listing shows the technical diploma scheme window through 30 November 2026; verify the exact category definitions.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
-    "published": true
+    "published": true,
+    "amountMin": 50000,
+    "amountMax": 50000
   },
   {
     "slug": "hdfc-parivartan-ecss-diploma-2026-27",
     "name": "HDFC Bank Parivartan ECSS – Diploma Students",
-    "provider": "HDFC Bank Parivartan",
+    "provider": "HDFC Bank Parivartan (official ECSS programme)",
     "providerType": "corporate",
     "educationLevels": [
       "Diploma"
@@ -151,12 +160,14 @@
       "Merit-based"
     ],
     "scholarshipType": "Need-based / merit-based as notified",
-    "summary": "Corporate education assistance for diploma students facing financial difficulty or a personal/family crisis; course and academic criteria apply.",
-    "benefits": "The official programme page lists diploma-category assistance; confirm current award amount and eligibility.",
+    "summary": "Financial support for diploma, ITI and polytechnic students facing financial difficulty or a personal/family crisis. Diploma applicants must be pursuing a diploma after Class 12.",
+    "benefits": "₹18,000 for eligible Diploma, ITI and Polytechnic students in the 2026–27 programme.",
     "eligibility": {
-      "course": "Diploma/polytechnic students as specified by the current cycle.",
-      "marks": "Previous-year marks threshold applies; verify current notice.",
-      "income": "Family income ceiling applies."
+      "nationality": "Indian",
+      "previousClassMarksMin": 55,
+      "annualFamilyIncomeMax": 250000,
+      "course": "Diploma after Class 12; ITI and polytechnic courses are also covered.",
+      "preference": "Preference for applicants facing personal or family crisis in the previous three years."
     },
     "requiredDocuments": [
       "Previous-year marksheet",
@@ -166,11 +177,101 @@
       "Crisis evidence if relevant"
     ],
     "applicationProcess": "Apply through the official ECSS programme page when applications are open.",
-    "officialApplicationUrl": "https://scholarships.gov.in/All-Scholarships",
-    "officialSourceUrl": "https://www.parivartanecss.com/index.html",
+    "officialApplicationUrl": "https://www.parivartanecss.com/index.html",
+    "officialSourceUrl": "https://v.hdfc.bank.in/csr/initiatives/education.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "statusNote": "Official 2026–27 programme page lists ₹18,000 for Diploma/ITI/Polytechnic and a deadline of 15 December 2026.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true,
+    "amountMin": 18000,
+    "amountMax": 18000,
+    "applicationDeadline": "2026-12-15"
+  },
+  {
+    "slug": "post-matric-disability-diploma-2026-27",
+    "name": "Post-Matric Scholarship for Students with Disabilities – Diploma",
+    "provider": "Department of Empowerment of Persons with Disabilities, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Welfare-based",
+    "summary": "Central post-matric support for eligible students with benchmark disabilities enrolled in recognised diploma programmes. Course, disability, income and other-scholarship conditions apply.",
+    "benefits": "The department lists tuition/admission support, maintenance allowance and book/disability allowances. Check the latest guidelines for applicable amounts and fee ceiling.",
+    "eligibility": {
+      "nationality": "Indian",
+      "disability": "Benchmark disability of 40% or more",
+      "annualFamilyIncomeMax": 250000,
+      "course": "Recognised diploma course; confirm course group and duration in current guidelines."
+    },
+    "requiredDocuments": [
+      "UDID/disability certificate",
+      "Income certificate",
+      "Current admission proof",
+      "Previous marksheet",
+      "Bank and identity details requested by NSP"
+    ],
+    "applicationProcess": "Check the current scheme guidelines and apply through the National Scholarship Portal when the application window is open.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://depwd.gov.in/en/scholarship-post-matric/",
+    "academicYear": "2026-27",
+    "applicationStatus": "open",
+    "applicationDeadline": "2026-11-30",
+    "statusNote": "NSP lists the post-matric disability scholarship through 30 November 2026. Confirm that the specific diploma course is covered in the current guidelines.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "telangana-epass-post-matric-diploma-2026-27",
+    "name": "Telangana ePASS – Post-Matric Scholarship (Eligible Diploma Courses)",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Diploma"
+    ],
+    "grades": [
+      "Diploma"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "State post-matric support",
+    "summary": "Telangana ePASS supports eligible post-matric courses approved by the relevant board or university. Course groups include graduate-level diploma courses; eligibility depends on the scheme and recognised institution.",
+    "benefits": "Fee reimbursement and/or maintenance support may apply under the relevant Telangana post-matric scheme. No single amount is stated because it varies by course group and category.",
+    "eligibility": {
+      "domicile": "Telangana",
+      "course": "Post-matric courses approved by the concerned University/Board with duration of one year or more; graduate-level diploma courses are listed in Group II.",
+      "other": "Community, income, attendance and institution conditions vary by scheme."
+    },
+    "requiredDocuments": [
+      "Telangana residence/community and income records as applicable",
+      "Current admission details",
+      "Aadhaar/bank details",
+      "Other documents specified by ePASS"
+    ],
+    "applicationProcess": "Use the official Telangana ePASS portal and check the course group and applicable post-matric scheme before applying.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/CoursesOffered.do",
     "academicYear": "2026-27",
     "applicationStatus": "verify_on_provider",
-    "statusNote": "Check the official programme page for current diploma-specific award details and application dates.",
+    "statusNote": "The official course list includes graduate-level diploma courses in Group II. Check the exact diploma course, approval and current application dates on ePASS.",
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
