@@ -1,0 +1,1062 @@
+[
+  {
+    "slug": "pmss-higher-education",
+    "name": "Prime Minister’s Scholarship Scheme (PMSS)",
+    "provider": "Ministry of Home Affairs / Ministry of Defence (scheme-specific)",
+    "providerType": "government",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1",
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "PMSS is a family-service-linked scholarship with separate schemes for eligible wards/widows of CAPFs and Assam Rifles personnel, and eligible Armed Forces veterans. It is not a general scholarship for all students; check the relevant ministry's exact scheme.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://scholarships.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "kotak-kanya-scholarship",
+    "name": "Kotak Kanya Scholarship",
+    "provider": "Kotak Education Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship support for eligible girl students pursuing professional undergraduate education. Confirm the current course, marks, income and selection requirements with the official programme administrator.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.kotakeducation.org/",
+    "officialSourceUrl": "https://www.kotakeducation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "federal-bank-hormis",
+    "name": "Federal Bank Hormis Memorial Foundation Scholarship",
+    "provider": "Federal Bank Hormis Memorial Foundation",
+    "providerType": "bank",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "Andhra Pradesh",
+      "Gujarat",
+      "Karnataka",
+      "Kerala",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Telangana"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The 2026–27 notice covers first-year students in specified courses including MBBS, BDS, BVSc, BE/BTech/BArch, BSc Nursing, BSc Agriculture and full-time MBA/PGDM, from listed states including Telangana. Check the official notice for complete terms.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.federal.bank.in/documents/d/guest/federalbankhormismemorialfoundation_scholarship_announcement_2026-27",
+    "officialSourceUrl": "https://www.federal.bank.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "baroda-scholars-programme",
+    "name": "Bank of Baroda Baroda Scholars",
+    "provider": "Bank of Baroda",
+    "providerType": "bank",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The supplied name may refer to Bank of Baroda's education-finance/merit support offerings. Confirm whether the current offering is a scholarship or an education loan before treating it as a grant.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bankofbaroda.in/",
+    "officialSourceUrl": "https://www.bankofbaroda.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Programme classification and any scholarship award are not confirmed. Check the provider's current official notice; do not assume a loan is a scholarship.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "canara-vidya-turant",
+    "name": "Canara Bank Vidya Turant",
+    "provider": "Canara Bank",
+    "providerType": "bank",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Education loan",
+      "Not a scholarship"
+    ],
+    "scholarshipType": "Education loan (not a scholarship)",
+    "summary": "Vidya Turant is an education-loan product for higher studies at selected institutions, not a scholarship or grant. It is included because it appeared in the supplied list, and is labelled clearly to avoid misleading students.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.canarabank.bank.in/vidya-turant",
+    "officialSourceUrl": "https://www.canarabank.bank.in/vidya-turant",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "This is an education loan with repayment obligations, not free scholarship funding. Review the bank's official terms carefully.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "indusind-para-champions",
+    "name": "IndusInd Bank Para Champions Programme",
+    "provider": "IndusInd Bank / GoSports Foundation",
+    "providerType": "bank",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Sports support",
+      "Targeted support"
+    ],
+    "scholarshipType": "Sports scholarship and athlete support",
+    "summary": "Sports-support programme for para-athletes that can include scholarships, training, sports science, equipment and individual support. Selection is athlete- and sport-specific; this is not a general tuition scholarship.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.indusind.bank.in/in/en/for-sports/Programs/para-champions.html",
+    "officialSourceUrl": "https://www.indusind.bank.in/in/en/for-sports/Programs/para-champions.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "reliance-foundation-ug",
+    "name": "Reliance Foundation Undergraduate Scholarships",
+    "provider": "Reliance Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "For 2026–27, the programme supports first-year regular full-time undergraduate students in any stream, with household income below ₹15 lakh and an award of up to ₹2 lakh over the degree. The 2026–27 application window is closed.",
+    "benefits": "Up to ₹2 lakh over the duration of the undergraduate degree; current 2026–27 applications are closed.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://scholarships.reliancefoundation.org/UG_Scholarship.aspx",
+    "officialSourceUrl": "https://scholarships.reliancefoundation.org/UG_Scholarship.aspx",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "The official 2026–27 programme page states applications are closed. Check the portal for the next cycle.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "jsw-umeed-scholarship",
+    "name": "JSW UMEED Scholarship",
+    "provider": "JSW Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education assistance programme listed in the requested catalogue. Confirm the current student cohort, eligible locations, course level and award conditions with JSW Foundation.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.jswfoundation.org/",
+    "officialSourceUrl": "https://www.jswfoundation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "alkem-shri-samprada-singh",
+    "name": "Alkem Foundation Shri Samprada Singh Scholarship",
+    "provider": "Alkem Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship programme name supplied for the catalogue. Confirm the current medical/health-science course coverage, institutions, award amount and application cycle with Alkem Foundation.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.alkemlabs.com/",
+    "officialSourceUrl": "https://www.alkemlabs.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "bc-jindal-vidya",
+    "name": "BC Jindal Vidya Scholarship",
+    "provider": "BC Jindal Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support programme name supplied for the catalogue. Current eligible courses, institution list, geography and application process require confirmation from the provider.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bcjindalgroup.com/",
+    "officialSourceUrl": "https://www.bcjindalgroup.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "infosys-stem-stars",
+    "name": "Infosys Foundation STEM Stars / School Initiatives",
+    "provider": "Infosys Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "STEM education support initiative associated with Infosys Foundation. Confirm the active scholarship cohort, eligible institutions and whether the current programme is a direct student scholarship or an institutional initiative.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.infosys.com/infosys-foundation/",
+    "officialSourceUrl": "https://www.infosys.com/infosys-foundation/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "wipro-santoor-womens",
+    "name": "Wipro Santoor Women’s Scholarship",
+    "provider": "Wipro Foundation / Santoor",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship programme for eligible women students pursuing higher education after Class 12. Current state coverage, course and cohort rules must be checked with the programme administrator.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.santoorscholarship.com/",
+    "officialSourceUrl": "https://www.santoorscholarship.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "ongc-sports-scholarship",
+    "name": "ONGC Sports Scholarship Scheme",
+    "provider": "Oil and Natural Gas Corporation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Sports scholarship for eligible young sportspersons. The current sports disciplines, age groups, performance criteria and award conditions are defined by ONGC's latest notification.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://ongcindia.com/",
+    "officialSourceUrl": "https://ongcindia.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "indianoil-academic-sports-ug",
+    "name": "IndianOil Academic & Sports Scholarships",
+    "provider": "IndianOil Corporation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Academic and sports scholarship programme. Confirm the current discipline, course, marks, sports category and application window from IndianOil's official notification.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://iocl.com/",
+    "officialSourceUrl": "https://iocl.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "gail-utkarsh-ug",
+    "name": "GAIL Utkarsh / Merit Scholarships",
+    "provider": "GAIL (India) Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Merit-support programme name supplied for the catalogue. Confirm whether a current undergraduate cohort is active and check the official provider notice for eligibility and benefits.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.gailonline.com/",
+    "officialSourceUrl": "https://www.gailonline.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "cummins-india-scholarship",
+    "name": "Cummins India Scholarship Program",
+    "provider": "Cummins India Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education support programme for eligible students, with course and location-specific criteria. Check the current Cummins India Foundation notice for supported disciplines, institutions and application dates.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.cummins.com/en/in/company/corporate-responsibility",
+    "officialSourceUrl": "https://www.cummins.com/en/in/company/corporate-responsibility",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "schaeffler-hope-engineering",
+    "name": "Schaeffler India Hope Engineering / School Scholarships",
+    "provider": "Schaeffler India",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support initiative listed for the catalogue. Confirm the current programme name, eligible engineering institutions, beneficiary group and award terms with Schaeffler India.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.schaeffler.co.in/",
+    "officialSourceUrl": "https://www.schaeffler.co.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "siemens-scholarship",
+    "name": "Siemens Scholarship Program",
+    "provider": "Siemens India",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1",
+      "Undergraduate Year 2",
+      "Undergraduate Year 3",
+      "Undergraduate Year 4"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Supports economically disadvantaged engineering students in selected government colleges through a multi-year scholarship and holistic development programme. The official 2026–27 application window is closed.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.siemens.com/en-gb/company/sustainability/corporate-citizenship-india/scholarship-program/",
+    "officialSourceUrl": "https://www.siemens.com/en-gb/company/sustainability/corporate-citizenship-india/scholarship-program/",
+    "academicYear": "2026-27",
+    "applicationStatus": "closed",
+    "statusNote": "Siemens' official page states applications for 2026–27 are closed. Check the programme page for the next cohort.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "lic-golden-jubilee",
+    "name": "LIC Golden Jubilee Scholarship Scheme",
+    "provider": "Life Insurance Corporation of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "LIC's Golden Jubilee Scholarship Scheme supports eligible students pursuing higher education. The 2026 scheme notice and divisional-office selection instructions are published by LIC; check the current PDF for course and income criteria.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://web.licindia.in/golden-jubilee-foundation",
+    "officialSourceUrl": "https://web.licindia.in/golden-jubilee-foundation",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "bajaj-finserv-scholarship",
+    "name": "Bajaj Finserv Scholarship",
+    "provider": "Bajaj Finserv",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Education-support programme name supplied for the catalogue. Confirm the exact active scheme, eligible course, institution, region and award conditions with Bajaj Finserv before applying.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bajajfinserv.in/",
+    "officialSourceUrl": "https://www.bajajfinserv.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "bharti-airtel-scholarship",
+    "name": "Bharti Airtel Scholarship Program",
+    "provider": "Bharti Airtel Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The 2026–27 programme supports first-year students in specified technology and engineering disciplines at eligible top-50 NIRF engineering institutions, with tuition and eligible hostel/mess support. Check the official eligibility list and current application status.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.bhartiairtelfoundation.org/bharti-airtel-scholarship",
+    "officialSourceUrl": "https://www.bhartiairtelfoundation.org/bharti-airtel-scholarship",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "azim-premji-scholarship",
+    "name": "Azim Premji Scholarship",
+    "provider": "Azim Premji Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Supports eligible girl students from disadvantaged backgrounds pursuing their first undergraduate degree or diploma in covered regions. The 2026 cohort is being rolled out in rounds; check current registration and region eligibility.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/",
+    "officialSourceUrl": "https://azimpremjifoundation.org/what-we-do/education/azim-premji-scholarship/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "ffe-scholarship",
+    "name": "Foundation For Excellence (FFE) Scholarship",
+    "provider": "Foundation For Excellence",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Need-based scholarship support for eligible students pursuing selected professional degree courses such as engineering and medicine. Check current course, admission, income and academic requirements with FFE.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://ffe.org/",
+    "officialSourceUrl": "https://ffe.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "loreal-young-women-science",
+    "name": "L’Oréal India For Young Women in Science Scholarship",
+    "provider": "L’Oréal India / L’Oréal Foundation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Scholarship initiative for eligible young women pursuing science education after Class 12. Confirm the active cycle, eligible science courses, marks and income conditions on the official programme page.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.loreal.com/en/india/",
+    "officialSourceUrl": "https://www.loreal.com/en/india/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "udayan-shalini-fellowship",
+    "name": "Udayan Shalini Fellowship",
+    "provider": "Udayan Care",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Long-term education and mentoring fellowship for selected girl students. Eligibility and availability depend on the city/state chapter and current intake; confirm the active local programme.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.udayancare.org/",
+    "officialSourceUrl": "https://www.udayancare.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "legrand-empowering-scholarship",
+    "name": "Legrand Empowering Scholarship Program",
+    "provider": "Group Legrand India",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate Year 1"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The 2026–27 programme supports eligible first-year graduation students in India, including girl students and specified special-category applicants. Benefits are linked to course fees and capped by category; check the current official terms.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://legrandscholarship.co.in/",
+    "officialSourceUrl": "https://legrandscholarship.co.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "swami-vivekananda-mcm-ug",
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+    "provider": "Government of West Bengal",
+    "providerType": "government",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "West Bengal"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "West Bengal state merit-cum-means scholarship for eligible students in higher education. Domicile, income, academic and course rules apply; not an all-India scheme.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://svmcm.wbhed.gov.in/",
+    "officialSourceUrl": "https://svmcm.wbhed.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sitaram-jindal-ug",
+    "name": "Sitaram Jindal Foundation Scholarship – Undergraduate",
+    "provider": "Sitaram Jindal Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "The Foundation's published terms include eligible graduation students in general, medical and engineering fields. Age, family-income, institution and course conditions apply.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "officialSourceUrl": "https://app.sitaramjindalfoundation.org/Student/FAQ",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "tata-capital-pankh-ug",
+    "name": "Tata Capital Pankh Scholarship – Undergraduate",
+    "provider": "Tata Capital Limited",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Tata Capital's Pankh programme supports academically bright students from economically challenged communities. Confirm the current course band, award cap and application dates in the official portal.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.tatacapital.com/sustainability/education.html",
+    "officialSourceUrl": "https://www.tatacapital.com/sustainability/education.html",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "tata-trusts-means-ug",
+    "name": "Tata Trusts Means Grant Programme – Higher Education",
+    "provider": "Tata Trusts",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Undergraduate"
+    ],
+    "grades": [
+      "Undergraduate"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Means-grant programme with eligibility and application procedures that vary by grant and institution. Confirm whether the current Tata Trusts grant covers the applicant's course and location.",
+    "benefits": "Award amount, fee coverage and renewal terms vary by programme and academic year. Check the current official provider notification.",
+    "eligibility": {
+      "details": "Eligibility depends on the current provider notification, course, institution, academic record and applicable financial or regional criteria. Confirm directly with the official provider."
+    },
+    "requiredDocuments": [],
+    "applicationProcess": "Read the current official provider notification and follow its application instructions. ScholarSphere is an information directory and does not collect applications or documents.",
+    "officialApplicationUrl": "https://www.tatatrusts.org/",
+    "officialSourceUrl": "https://www.tatatrusts.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name was included in the requested catalogue. Current-cycle dates, eligibility and award details must be confirmed on the official provider website before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  }
+]
