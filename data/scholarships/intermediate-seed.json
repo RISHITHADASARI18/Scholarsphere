@@ -862,5 +862,805 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "telangana-rtf-mtf-sc-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – SC Students",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Fee Reimbursement (RTF) and Maintenance Fee (MTF) support for eligible Telangana SC students enrolled in Intermediate or other approved post-matric courses.",
+    "benefits": "Eligible tuition-fee reimbursement and maintenance support; actual amount depends on course, college fee and current state rules.",
+    "eligibility": "Telangana domicile; SC community certificate; eligible course/institution; income, attendance and other ePASS rules apply.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Register or renew through Telangana ePASS and complete college verification. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Category-specific current-year limits, fresh/renewal windows and course eligibility must be checked on ePASS.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "telangana-rtf-mtf-st-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – ST Students",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Fee Reimbursement and Maintenance Fee support for eligible Telangana ST students continuing education after Class 10, including Intermediate.",
+    "benefits": "Fee and maintenance support as per current Telangana government rates and course group; no fixed amount is assumed.",
+    "eligibility": "Telangana domicile; ST community certificate; eligible course/institution; income, attendance and ePASS conditions apply.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Apply or renew through Telangana ePASS and follow institution verification. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm current income ceiling, course group, application dates and rates on the official portal.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "telangana-rtf-mtf-bc-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – BC Students",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Telangana post-matric fee reimbursement and maintenance assistance for eligible Backward Classes students studying Intermediate.",
+    "benefits": "Eligible fee reimbursement and maintenance assistance; limits vary by course and current notification.",
+    "eligibility": "Telangana domicile; BC community certificate; eligible course/institution; income and attendance requirements under current rules.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Apply or renew through Telangana ePASS; ensure the college verifies the application. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Check BC sub-category, income ceiling, current scheme window and college/course approval on ePASS.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "telangana-rtf-mtf-ebc-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – EBC Students",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Post-matric financial support through the Telangana ePASS framework for eligible Economically Backward Class students in approved Intermediate courses.",
+    "benefits": "Fee reimbursement and/or maintenance support only where the current EBC notification provides it; confirm applicable coverage.",
+    "eligibility": "Telangana domicile; EBC eligibility as defined by the current state notification; income, course and institution conditions apply.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the current EBC scheme on Telangana ePASS before applying; follow the portal and institution process. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "EBC coverage and the exact RTF/MTF entitlement must be verified against the current Telangana notification; do not assume it matches BC rules.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "telangana-rtf-mtf-minority-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – Minority Students",
+    "provider": "Government of Telangana – ePASS",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Post-matric support for eligible minority-community students from Telangana studying in approved Intermediate courses.",
+    "benefits": "Fee reimbursement and/or maintenance assistance according to the active minority scheme and current state rates.",
+    "eligibility": "Telangana domicile; membership of a notified minority community; income, attendance and institution conditions apply.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the active minority post-matric scheme and apply through the official Telangana ePASS route if the window is open. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm that the minority category scheme is currently accepting Intermediate applications and verify its rates and dates.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "telangana-rtf-mtf-disabled-intermediate",
+    "name": "Telangana Post-Matric Scholarship (RTF & MTF) – Students with Disabilities",
+    "provider": "Government of Telangana – ePASS / Department for Empowerment of Persons with Disabilities",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Post-matric education support for eligible Telangana students with disabilities in approved Intermediate courses.",
+    "benefits": "Applicable fee reimbursement or maintenance assistance depends on the active disability scheme and notification.",
+    "eligibility": "Telangana domicile; valid disability certificate/UDID where required; income, course and institution conditions under current rules.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the official ePASS and state disability-welfare notifications for the current application route. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://telanganaepass.cgg.gov.in/",
+    "officialSourceUrl": "https://telanganaepass.cgg.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm whether RTF and MTF both apply to this category in the current academic year; benefits and deadlines are not assumed.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "nmms-class-11-12-renewal",
+    "name": "National Means-cum-Merit Scholarship (NMMS) – Renewal for Class 8 Qualifiers",
+    "provider": "Department of School Education & Literacy, Ministry of Education, Government of India",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Continuation of NMMS support for students selected through the Class 8 examination, subject to renewal conditions as they progress through secondary and higher-secondary classes.",
+    "benefits": "Scholarship support is generally ₹12,000 per year, subject to current scheme rules and renewal approval.",
+    "eligibility": "Must have qualified NMMS in Class 8; continue in an eligible recognised school; meet prescribed academic performance and renewal requirements.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Renew through the National Scholarship Portal / designated state process as instructed for the current cycle. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://dsel.education.gov.in/scheme/nmmss",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "This is a renewal opportunity for previous NMMS awardees, not a fresh Class 11 application. Verify renewal stages, marks and current portal dates.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "cbse-single-girl-child-merit-intermediate",
+    "name": "CBSE Merit Scholarship Scheme for Single Girl Child",
+    "provider": "Central Board of Secondary Education (CBSE)",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Merit scholarship for an eligible single girl child who has passed the CBSE Class 10 examination and continues Class 11 and 12 in a CBSE-affiliated school.",
+    "benefits": "Monthly scholarship amount and duration are set by the current CBSE notification; confirm the latest rate and renewal conditions.",
+    "eligibility": "Single girl child; passed CBSE Class 10 with the minimum marks and tuition-fee conditions specified in the current CBSE notice; continue in an eligible CBSE school.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Apply or renew through the CBSE scholarship portal during the notified window. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.cbse.gov.in/",
+    "officialSourceUrl": "https://www.cbse.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Check the current CBSE circular for marks threshold, fee ceiling, affidavit and application/renewal dates.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "pmss-intermediate-eligibility-note",
+    "name": "Prime Minister’s Scholarship Scheme (PMSS) – Post-Class 12 Pathway",
+    "provider": "Concerned Central Ministry / Welfare Directorate (scheme-specific)",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "A group of ministry-administered scholarship schemes for eligible wards or widows of specified service personnel. Most PMSS awards support approved professional or technical courses after Class 12, not ordinary Intermediate study.",
+    "benefits": "Award rates and course coverage differ by the administering ministry; no Intermediate-stage award is claimed here.",
+    "eligibility": "Usually limited to eligible dependants of specified personnel (for example, armed forces, CAPF or railway protection personnel depending on the scheme) and admission to notified courses after Class 12.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Use the relevant ministry's official PMSS notice after Class 12 and check the eligible course list before applying. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://desw.gov.in/prime-ministers-scholarship-scheme",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Important eligibility note: this is generally not a scholarship for students currently studying Class 11 or 12. Listed for awareness because it was requested; check the relevant ministry's current scheme.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "begum-hazrat-mahal-minority-girls",
+    "name": "Begum Hazrat Mahal National Scholarship – Minority Girls (Legacy / Status to Confirm)",
+    "provider": "Maulana Azad Education Foundation / Ministry of Minority Affairs (historical scheme attribution)",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "A historically named scholarship for meritorious girls from notified minority communities. Its present operational status and successor arrangements must be checked before treating it as an active opportunity.",
+    "benefits": "Current award amount is not stated because active-cycle availability and scheme status require confirmation.",
+    "eligibility": "Historically targeted meritorious minority-community girl students in notified school classes; current eligibility and whether a fresh application route exists must be confirmed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check current Ministry of Minority Affairs and National Scholarship Portal notifications; do not submit through third-party agents. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://www.minorityaffairs.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Legacy programme listing only. Do not assume fresh applications are open; verify whether the scheme has been discontinued, merged or replaced.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "kotak-junior-scholarship-intermediate",
+    "name": "Kotak Junior Scholarship – Class 11",
+    "provider": "Kotak Education Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Mumbai, Maharashtra"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education support for selected students entering Class 11, with programme support and mentoring as defined by the current Kotak Education Foundation cohort.",
+    "benefits": "Scholarship and learning support vary by cohort; confirm current award details directly with the foundation.",
+    "eligibility": "Typically focused on students completing Class 10 in selected Mumbai schools/areas with specified academic and financial criteria; exact cohort geography and marks threshold change by cycle.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the official Kotak Education Foundation programme page for the current cohort and application process. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.kotakeducation.org/",
+    "officialSourceUrl": "https://www.kotakeducation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Geographic coverage is not assumed to be pan-India. Confirm whether the current cohort accepts applicants from the student's school and location.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "colgate-keep-india-smiling-intermediate",
+    "name": "Colgate Keep India Smiling Foundational Scholarship – Higher Secondary",
+    "provider": "Colgate-Palmolive (India) / Keep India Smiling Foundation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education assistance under the Keep India Smiling programme family. The exact current scholarship track and whether Class 11–12 students are eligible must be checked in the latest call.",
+    "benefits": "Award amount and duration depend on the specific active track and current programme notice.",
+    "eligibility": "Eligibility is track-specific and may include academic performance, financial need, sport or other criteria; current Class 11–12 coverage is not assumed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Review the current official Keep India Smiling scholarship page and apply only if the current track explicitly includes Class 11 or 12. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.colgate.com/en-in",
+    "officialSourceUrl": "https://www.colgate.com/en-in",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The programme name is included as a lead; a current Class 11–12 award and its terms need direct confirmation.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "ongc-sports-scholarship-intermediate",
+    "name": "ONGC Sports Scholarship Scheme – School-Level Eligibility to Confirm",
+    "provider": "Oil and Natural Gas Corporation (ONGC)",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Sports scholarship opportunity listed for awareness. The current ONGC sports scholarship notice must be checked for age, discipline and education-level coverage.",
+    "benefits": "Award amount, number of awards and duration are set by the current sports scholarship notification.",
+    "eligibility": "Sports discipline, performance level, age, nationality and education requirements are defined in the current ONGC notification; Intermediate eligibility is not assumed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check ONGC's current sports scholarship advertisement and apply through the route specified in that notice. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://ongcindia.com/",
+    "officialSourceUrl": "https://ongcindia.com/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Confirm that the current scheme accepts Class 11–12 students; do not infer eligibility from older cycles.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "reliance-foundation-school-support",
+    "name": "Reliance Foundation School Support Scholarships – School-Level Lead",
+    "provider": "Reliance Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "School education support initiative lead included for discovery. A distinct, currently open nationwide Class 11–12 scholarship under this exact title has not been confirmed.",
+    "benefits": "No award amount is asserted until an official school-level scholarship notice is identified.",
+    "eligibility": "Eligibility and class coverage are not confirmed for this exact programme title; check the current Reliance Foundation education initiatives.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check Reliance Foundation's official education initiatives and confirm the exact programme and application route. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.reliancefoundation.org/",
+    "officialSourceUrl": "https://www.reliancefoundation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Research lead only. Do not confuse Reliance Foundation Undergraduate/PG scholarships with a school-level award.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "schaeffler-hope-school-scholarship",
+    "name": "Schaeffler India HOPE Scholarship – School-Level Lead",
+    "provider": "Schaeffler India",
+    "providerType": "corporate",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education support initiative named in the requested catalogue. The exact current Class 11–12 scholarship terms and application route require confirmation.",
+    "benefits": "No amount is stated until a current official award notice is available.",
+    "eligibility": "Current programme eligibility, school coverage, marks and income criteria have not been confirmed from a current official call.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check Schaeffler India's official CSR/education announcements for the active programme and application instructions. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.schaeffler.co.in/",
+    "officialSourceUrl": "https://www.schaeffler.co.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Listed as a verification lead, not a confirmed currently open scholarship.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "bharti-airtel-foundation-merit-grants-intermediate",
+    "name": "Bharti Airtel Foundation Merit Grants – School Support Lead",
+    "provider": "Bharti Airtel Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "School education and merit-support lead associated with Bharti Airtel Foundation initiatives. A standalone current Class 11–12 merit grant under this exact name needs confirmation.",
+    "benefits": "No amount asserted pending a current official scholarship notice.",
+    "eligibility": "Class coverage, geography and selection criteria depend on the exact current foundation programme; not assumed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check the foundation's official programmes and confirm the exact student scholarship, if any, before applying. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://bhartiairtelfoundation.org/",
+    "officialSourceUrl": "https://bhartiairtelfoundation.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Do not confuse school-support initiatives with the separate Bharti Airtel Scholarship Programme for undergraduate students.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "udayan-shalini-fellowship-intermediate",
+    "name": "Udayan Shalini Fellowship – Class 11–12",
+    "provider": "Udayan Care",
+    "providerType": "ngo",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Selected cities in India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Long-term educational and mentoring support for selected girls from economically disadvantaged backgrounds, subject to local chapter availability.",
+    "benefits": "Financial assistance and mentoring support vary by location and cohort; confirm with the local Udayan Care chapter.",
+    "eligibility": "Girl students from economically disadvantaged families in cities where Udayan Care operates; academic, age and local selection conditions apply.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Contact the official Udayan Care chapter or check its current fellowship announcement for the city-specific application process. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.udayancare.org/",
+    "officialSourceUrl": "https://www.udayancare.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Availability is city- and cohort-specific. The separate term 'Fairy Queen' in the supplied list could not be verified as a distinct current scholarship.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "nirmaan-vidya-helpline-intermediate",
+    "name": "Nirmaan Organisation – Vidya Help Line Scholarship / Education Support",
+    "provider": "Nirmaan Organization",
+    "providerType": "ngo",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Selected locations in India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education-support lead for students seeking scholarship guidance and financial assistance through Nirmaan programmes and partner initiatives.",
+    "benefits": "Support amount and form vary by programme; no fixed award is claimed.",
+    "eligibility": "Eligibility, course level and geography depend on the specific Nirmaan programme or partner fund; Class 11–12 coverage must be confirmed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Use Nirmaan's official contact/programme channels to confirm the current scholarship call and application procedure. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://nirmaan.org/",
+    "officialSourceUrl": "https://nirmaan.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Programme-specific lead; verify the exact current scholarship title, available locations and Class 11–12 eligibility.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "faiz-e-aam-trust-scholarship-intermediate",
+    "name": "Faiz-e-Aam Trust Scholarship – Intermediate",
+    "provider": "Faiz-e-Aam Trust",
+    "providerType": "ngo",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "Hyderabad, Telangana"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education assistance lead for eligible students from financially disadvantaged backgrounds through the trust's education-support activities.",
+    "benefits": "Award or fee assistance varies by the trust's available funds and current selection; no amount is assumed.",
+    "eligibility": "Local eligibility, community/financial criteria, academic requirements and current beneficiary selection are determined by the trust; Class 11–12 coverage must be confirmed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Contact Faiz-e-Aam Trust through its official channels to confirm the current scholarship cycle and required documents. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://faizeaam.org/",
+    "officialSourceUrl": "https://faizeaam.org/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Local programme lead. Verify the official contact details and current Intermediate support before directing students to apply.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
+  },
+  {
+    "slug": "maulana-azad-education-foundation-intermediate",
+    "name": "Maulana Azad Education Foundation Scholarship – Status / Successor Scheme to Confirm",
+    "provider": "Maulana Azad Education Foundation (MAEF)",
+    "providerType": "government",
+    "educationLevels": [
+      "Intermediate"
+    ],
+    "grades": [
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Merit-based"
+    ],
+    "scholarshipType": "As defined by the current provider notification",
+    "summary": "Education-support listing for awareness of MAEF's historical scholarship programmes. Current organisational and scheme status must be checked before presenting it as an active award.",
+    "benefits": "No current award amount is asserted because active scheme status needs confirmation.",
+    "eligibility": "Historically supported eligible minority students under specific schemes; present Class 11–12 eligibility and any successor programme are not confirmed.",
+    "requiredDocuments": [
+      "Previous-class marksheet",
+      "Current admission / bonafide proof",
+      "Identity proof",
+      "Income/category certificate if applicable",
+      "Bank details if required"
+    ],
+    "applicationProcess": "Check current Ministry of Minority Affairs announcements and the official National Scholarship Portal for any active successor or replacement scheme. ScholarSphere does not collect applications or documents; apply only through the official provider route.",
+    "officialApplicationUrl": "https://www.minorityaffairs.gov.in/",
+    "officialSourceUrl": "https://www.minorityaffairs.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "Legacy/status-to-confirm entry only. Do not claim applications are open or that a former scheme continues unchanged.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "needs_review",
+    "published": false
   }
 ]
