@@ -551,5 +551,254 @@
     "sourceLastChecked": "2026-11-27",
     "verificationStatus": "verified",
     "published": true
+  },
+  {
+    "slug": "pre-matric-minority-scholarship-classes-9-10",
+    "name": "Pre-Matric Scholarship for Minority Students (Classes 9–10)",
+    "provider": "Ministry of Minority Affairs / State and UT Governments",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 9",
+      "Class 10"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "A centrally sponsored pre-matric opportunity described in Government of India scheme material for eligible minority-community students in Classes 9–10. Applications and current continuation must be checked with the relevant State/UT and official portal; do not assume a fresh national window is active.",
+    "benefits": "Benefit amounts and eligible components depend on the currently operative government notification; no current award amount is asserted here.",
+    "eligibility": {
+      "communities": "Notified minority communities under the applicable scheme",
+      "grades": [
+        "Class 9",
+        "Class 10"
+      ],
+      "income": "Check the latest scheme and State/UT notification",
+      "marks": "Check current notification",
+      "implementation": "State/UT implementation"
+    },
+    "requiredDocuments": [
+      "Community/category proof if required",
+      "Income certificate",
+      "School enrolment and marks details",
+      "Identity and bank details requested by the portal"
+    ],
+    "applicationProcess": "Check the current State/UT notification and National Scholarship Portal. Confirm that this specific scheme is accepting applications for the current academic year.",
+    "officialApplicationUrl": "https://scholarships.gov.in/",
+    "officialSourceUrl": "https://transformingindia.mygov.in/scheme/pre-matric-scholarship-for-minorities/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The scheme is described in official Government material, but a live 2026–27 student application window was not confirmed in the source check. Verify current operation before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sof-girl-child-scholarship-2026-27",
+    "name": "SOF Girl Child Scholarship Scheme (GCSS) 2026–27",
+    "provider": "Science Olympiad Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Need-based",
+      "Targeted support"
+    ],
+    "scholarshipType": "Need-based",
+    "summary": "Financial assistance for girls from economically weaker families to help continue school education. The 2026–27 announcement says up to 300 selected girls receive support; nominations are routed through schools.",
+    "benefits": "₹5,000 for one academic year for selected students, as stated in the 2026–27 announcement.",
+    "eligibility": {
+      "applicants": "Girls from economically weaker sections",
+      "selection": "School nominations; final selection by SOF",
+      "grades": "School students; confirm the current nomination notice for class-specific rules"
+    },
+    "requiredDocuments": [
+      "School nomination form",
+      "School and student academic details",
+      "Any supporting documents requested by SOF"
+    ],
+    "applicationProcess": "Ask the school whether it has received the 2026–27 nomination form and follow SOF's official instructions. ScholarSphere does not accept applications.",
+    "officialApplicationUrl": "https://sofworld.org/scholarships",
+    "officialSourceUrl": "https://sofworld.org/girl-child-scholarship-scheme-gcss",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "SOF has announced the 2026–27 scheme. The school nomination route and any remaining submission dates should be confirmed with SOF or the student's school.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "sof-academic-excellence-scholarship-2026-27",
+    "name": "SOF Academic Excellence Scholarship (AES) 2026–27",
+    "provider": "Science Olympiad Foundation",
+    "providerType": "foundation",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-based",
+      "Academic excellence"
+    ],
+    "scholarshipType": "Merit-based",
+    "summary": "Recognition under SOF's Academic Excellence Scholarship for students demonstrating outstanding academic performance in SOF Olympiad examinations. Eligibility and award details depend on the current year's official notice.",
+    "benefits": "Award details vary by the official 2026–27 scheme notice; no amount is assumed.",
+    "eligibility": {
+      "selection": "Performance in SOF Olympiad examinations",
+      "grades": "Check the 2026–27 AES notice",
+      "other": "Applicable Olympiad participation and ranking rules apply"
+    },
+    "requiredDocuments": [
+      "SOF Olympiad participation/result details",
+      "School and student details requested by SOF"
+    ],
+    "applicationProcess": "Review the 2026–27 AES announcement and follow SOF's instructions for eligibility and award selection.",
+    "officialApplicationUrl": "https://sofworld.org/scholarships",
+    "officialSourceUrl": "https://sofworld.org/scholarships",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "SOF lists the 2026–27 Academic Excellence Scholarship. Specific award rules should be confirmed from the linked official notice.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "inspire-manak-student-innovation-award",
+    "name": "INSPIRE–MANAK Student Innovation Award",
+    "provider": "Department of Science & Technology, Government of India / National Innovation Foundation",
+    "providerType": "government",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Innovation",
+      "Merit-based"
+    ],
+    "scholarshipType": "Innovation",
+    "summary": "A school-nominated student innovation award that encourages original science and technology ideas. This is an innovation award programme, not a conventional recurring scholarship. Recognised schools submit nominations through the official system.",
+    "benefits": "Award and project-support details are governed by the current INSPIRE–MANAK guidelines; check the official notice rather than assuming a cash scholarship.",
+    "eligibility": {
+      "grades": "Classes 6–12; school nomination rules apply",
+      "selection": "Schools nominate original student ideas through the district/state process",
+      "school": "The school must be registered and submit nominations"
+    },
+    "requiredDocuments": [
+      "Student idea/project details",
+      "School nomination and registration information",
+      "Any documents required by the current guidelines"
+    ],
+    "applicationProcess": "Speak to the school coordinator. Eligible schools submit nominations through the official INSPIRE–MANAK portal when the nomination window is open.",
+    "officialApplicationUrl": "https://inspireawards-dst.gov.in/",
+    "officialSourceUrl": "https://inspireawards-dst.gov.in/",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The 2026–27 nomination window was shown as closed on the official portal when checked on 27 November 2026. This listing is included as an award opportunity, not as a live scholarship application.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
+  },
+  {
+    "slug": "colgate-keep-india-smiling-foundation-scholarship",
+    "name": "Colgate Keep India Smiling Foundation Scholarship",
+    "provider": "Colgate-Palmolive India / Shikshadaan Foundation",
+    "providerType": "corporate",
+    "educationLevels": [
+      "School"
+    ],
+    "grades": [
+      "Class 1",
+      "Class 2",
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6",
+      "Class 7",
+      "Class 8",
+      "Class 9",
+      "Class 10",
+      "Class 11",
+      "Class 12"
+    ],
+    "states": [
+      "All India"
+    ],
+    "categories": [
+      "Merit-cum-need",
+      "Need-based"
+    ],
+    "scholarshipType": "Merit-cum-need",
+    "summary": "Colgate's foundation scholarship programme aims to support deserving students who face resource constraints, with financial assistance and possible mentoring/career guidance. Specific school-level categories and current cycle criteria must be checked on the programme page.",
+    "benefits": "Award amount and eligible class bands depend on the current category-specific notice; no single amount is assumed.",
+    "eligibility": {
+      "selection": "Deserving and meritorious students with financial need; exact criteria vary by category",
+      "grades": "Check the current programme notice for the applicable school category"
+    },
+    "requiredDocuments": [
+      "Academic records",
+      "Income/need evidence",
+      "Identity and admission details requested by the programme"
+    ],
+    "applicationProcess": "Open the official Colgate programme page and select the current scholarship category to confirm whether a school-level application is open.",
+    "officialApplicationUrl": "https://www.colgate.com/en-in/smile-karo-aur-shuru-ho-jao/foundation-scholarship",
+    "officialSourceUrl": "https://www.colgate.com/en-in/smile-karo-aur-shuru-ho-jao/foundation-scholarship",
+    "academicYear": "2026-27",
+    "applicationStatus": "verify_on_provider",
+    "statusNote": "The official programme page confirms the foundation scholarship initiative but does not provide a single current school-level eligibility/amount schedule on the landing page. Verify category details before applying.",
+    "sourceLastChecked": "2026-11-27",
+    "verificationStatus": "verified",
+    "published": true
   }
 ]
