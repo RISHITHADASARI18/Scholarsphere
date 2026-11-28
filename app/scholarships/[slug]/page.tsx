@@ -59,7 +59,7 @@ export default async function ScholarshipDetailPage({params}:Props) {
       <p className="scholarship-detail-summary">{record.summary}</p>
       {record.benefits && <div className="scholarship-detail-benefit"><span>FINANCIAL SUPPORT</span><strong>{record.benefits}</strong></div>}
       <div className="scholarship-detail-pills">{(record.grades||[]).map((grade:string)=><span key={grade}>{grade}</span>)}{(record.states||[]).slice(0,3).map((state:string)=><span key={state}>{state}</span>)}</div>
-      <div className="scholarship-detail-actions"><a className="directory-cta" href={record.officialApplicationUrl||record.officialSourceUrl} target="_blank" rel="noreferrer">Visit official application portal <ArrowUpRight size={16}/></a><a className="scholarship-source-link" href={record.officialSourceUrl} target="_blank" rel="noreferrer">Read official scheme guidelines <ArrowUpRight size={15}/></a></div>
+      <div className="scholarship-detail-actions"><a className="directory-cta" href={record.officialApplicationUrl||record.officialSourceUrl} target="_blank" rel="noreferrer">Open official source / application route <ArrowUpRight size={16}/></a><a className="scholarship-source-link" href={record.officialSourceUrl} target="_blank" rel="noreferrer">Open official information source <ArrowUpRight size={15}/></a></div>
     </section>
     <section className="scholarship-detail-content">
       <div className="scholarship-detail-main">
