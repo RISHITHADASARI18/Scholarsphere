@@ -6,6 +6,7 @@ import diplomaSeed from "@/data/scholarships/diploma-seed.json";
 import undergraduateSeed from "@/data/scholarships/undergraduate-seed.json";
 import postgraduateSeed from "@/data/scholarships/postgraduate-seed.json";
 import researchSeed from "@/data/scholarships/research-seed.json";
+import additionalCatalogueSeed from "@/data/scholarships/additional-catalogue-seed.json";
 
 export const dynamic = "force-dynamic";
 
@@ -24,7 +25,9 @@ export async function GET(request: NextRequest) {
     const state = p.get("state") || "";
     const grade = p.get("grade") || "";
     const category = p.get("category") || "";
-    const filtered = source.filter((item) =>
+    const combinedSource = [...source, ...additionalCatalogueSeed.filter((item) => item.educationLevels.includes(level))];
+    const uniqueSource = [...new Map(combinedSource.map((item) => [item.slug, item])).values()];
+    const filtered = uniqueSource.filter((item) =>
       (!q || (item.name + " " + item.provider + " " + item.summary).toLowerCase().includes(q)) &&
       (!state || item.states.includes("All India") || item.states.includes(state)) &&
       (!grade || item.grades.includes(grade)) &&
